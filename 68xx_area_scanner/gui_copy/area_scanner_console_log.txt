@@ -1,0 +1,4 @@
+Undefined function or variable 'ENABLE_RECORD'.
+
+Error in area_scanner_visualizer (line 38)
+
