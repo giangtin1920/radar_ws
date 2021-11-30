@@ -200,6 +200,10 @@ bool RadarObj::data_handler(std_msgs::String raw_data, uint16_t data_len)
     ROS_INFO("%s", msg.data.c_str());
 
     // Processing
+    idxRawData = 0
+    
+
+
 
     // Update output
     Output.msg_counter++;

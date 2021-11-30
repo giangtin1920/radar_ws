@@ -13,6 +13,18 @@
 #define ser_Cfg_Port_Name "/dev/ttyUSB0"
 #define ser_Data_Port_Name "/dev/ttyUSB1"
 
+#define BYTES_BUFFER_MAX_SIZE  65536
+
+#define MMWDEMO_UART_MSG_DETECTED_POINTS 1
+#define MMWDEMO_UART_MSG_RANGE_PROFILE 2
+#define MMWDEMO_UART_MSG_AZIMUT_STATIC_HEAT_MAP 4
+#define MMWDEMO_UART_MSG_RANGE_DOPPLER_HEAT_MAP 5
+#define MMWDEMO_UART_MSG_STATS 6
+#define MMWDEMO_UART_MSG_DETECTED_POINTS_SIDE_INFO 7
+#define MMWDEMO_UART_MSG_Azimuth_Elevation_STATIC_HEAT_MAP 8
+#define MMWDEMO_UART_MSG_TEMPERATURE_STATISTICS 9
+
+
 /* Output of Radar */
 typedef struct
 {
@@ -47,4 +59,6 @@ class RadarObj
     void send_cfg(std::string msg);
     
 };
+
+
 #endif
