@@ -11,6 +11,7 @@ ros::Publisher radar_pub;
 
 int cnt = 0;
 aev_pkg::radar_msg radar_output_msg;
+
 void timer_uart_Callback(const ros::TimerEvent& e)
 {
   if(radarObj.ser_Data_Port.available())

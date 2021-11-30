@@ -39,9 +39,9 @@ function [frameHeader, validFrame, idxPacket] = getFrameHeader(framePacket,idxPa
     end
     word = [1 256 65536 16777216]';
     % size of the parameters    
-    frameHeaderSize = struct('magicWord',8, 'version',4, 'totalPacketLen',4, ...
+    frameHeaderSize = struct(;'magicWord',8, 'version',4, 'totalPacketLen',4, ...
         'platform',4,'frameNumber',4, 'timeCpuCycles',4, 'numDetectedObj',4, ...
-        'numTLVs',4, 'subFrameNumber',4,'numStaticDetectedObj', 4);
+        'numTLVs',4, 'subFrameNumber',4,'numStaticDetectedObj', 4)
     
     % get fieldnames of frame header struct
     fnFrameHeader = fieldnames(frameHeaderSize);
