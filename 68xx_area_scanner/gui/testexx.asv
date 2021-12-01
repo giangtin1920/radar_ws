@@ -1,0 +1,2 @@
+X = int8([77 60 43 26])Y = typecast(X,'single')
+Y = typecast(X,'single')

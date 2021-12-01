@@ -31,6 +31,7 @@ struct structTLV {
 	vector<uint8_t> payload;
 } tlv;
 
+
 int main()
 {
 	
@@ -118,24 +119,64 @@ int main()
 	// Check the header of the TLV message
 	for (auto tlvIdx = 0; tlvIdx < frameHeader.numTLVs; tlvIdx++)
 	{
+		tlv.type = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+		idX += 4;
+		tlv.length = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+		idX += 4;
+		for (auto i = 0; i < tlv.length ; i++)
+			{
+				tlv.payload.push_back(framePacket[idX + i]);
+			}
+		idX += tlv.length;
+
+		switch (tlv.tyle)
+		{
+			case 1: ///ghfgh
+			{
+				// getGtrackPtCloud(payload)
+				int numDetectedObj = tlv.length/16;
+
+				struct pointStruct
+				{
+					float x[ptCloud.numDetectedObj];
+					float y[ptCloud.numDetectedObj];
+					float z[ptCloud.numDetectedObj];
+					float doppler[ptCloud.numDetectedObj];
+				} ptCloud;
+
+				union myUnion
+				{
+					uint8_t    myByte[tlv.length];
+					float   myFloat[tlv.length/4];
+				} data;
+
+				if (numDetectedObj)
+				{
+					for (auto i = 0; i < tlv.length; i++)
+						{
+							data.myByte[i] = tlv.payload[i];
+						}
+
+					for (auto i = 0; i < ptCloud.numDetectedObj; i++)
+					{
+						ptCloud.x[i] = data.myFloat[i * 4];
+						ptCloud.y[i] = data.myFloat[i * 4 + 1];
+						ptCloud.z[i] = data.myFloat[i * 4 + 2];
+						ptCloud.dopple[i] = data.myFloat[i * 4+ 3];
+					}
+				}
+			}
+			break;
+
+			case 2:
+			break;
+
+			default:
+			break;
+		}
+
 		
 	}
-
-	tlv.type = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
-    idX += 4;
-	tlv.length = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
-    idX += 4;
-	for (auto i = 0; i < tlv.length ; i++)
-		{
-			tlv.payload.push_back(framePacket[idX + i]);
-		}
-	idX += tlv.length;
-	
-
-	
-
-	
-
 
 
 	
