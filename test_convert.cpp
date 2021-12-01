@@ -2,6 +2,7 @@
 #include <math.h>
 #include <string.h>
 #include <stdio.h>
+#include <vector>
 using namespace std;
 
 uint16_t dataLen = 1731;
@@ -11,8 +12,8 @@ uint16_t numframesAvailable = 0;
 uint32_t totalPacketLen = 0;
 
 struct structHeader {
-	uint16_t magicWord;
-	uint32_t version;
+	uint16_t magicWord[8];
+	uint32_t version[4];
 	uint32_t totalPacketLen;
     uint32_t platform;
 	uint32_t frameNumber;
@@ -22,6 +23,12 @@ struct structHeader {
 	uint32_t subFrameNumber;
 	uint32_t numStaticDetectedObj;
 } frameHeader;
+
+struct structTLV {
+	uint32_t type;
+    uint32_t length;
+	vector<uint8_t> payload;
+} tlv;
 
 int main()
 {
@@ -64,17 +71,72 @@ int main()
 
 	// Read the total packet length // as only 1 frame in buffer
 	uint8_t framePacket[dataLen];
+	uint idX = 0;
 	for (auto i = 0; i < dataLen; i++)
-			{
-				framePacket[i] = bytesBuffer[i];
-			}
+	{
+		framePacket[i] = bytesBuffer[i];
+	}
 
+	// check that all packet has been read
     frameHeader.totalPacketLen = framePacket[12] + framePacket[13] * 256.0 + framePacket[14] * 65536.0 + framePacket[15] * 1.6777216E+7;
+	
+	// Read the header
+	if ((dataLen >= frameHeader.totalPacketLen) && (dataLen != 0))
+	{
+		//word array to convert 4 bytes to a 32 bit number
+        //word = [1, 2**8, 2**16, 2**24]
+
+        // Initialize the pointer index
+        for (auto idX = 0; idX < 8; idX++)
+		{
+			frameHeader.magicWord[idX] = framePacket[idX];
+		}
+		idX += 8;
+		 for (auto idX = 0; idX < 4; idX++)
+		{
+			frameHeader.version[idX] = framePacket[idX + 8];
+		}
+		idX += 4;
+        frameHeader.totalPacketLen = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+        frameHeader.platform = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+        frameHeader.frameNumber = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+        frameHeader.timeCpuCycles = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+        frameHeader.numDetectedObj = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+        frameHeader.numTLVs = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+		frameHeader.subFrameNumber = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+        idX += 4;
+ 	}
+
+	// Read the TLV messages
+	// Check the header of the TLV message
+	for (auto tlvIdx = 0; tlvIdx < frameHeader.numTLVs; tlvIdx++)
+	{
+		
+	}
+
+	tlv.type = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+    idX += 4;
+	tlv.length = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
+    idX += 4;
+	for (auto i = 0; i < tlv.length ; i++)
+		{
+			tlv.payload.push_back(framePacket[idX + i]);
+		}
+	idX += tlv.length;
+
+	
+
 	
 
 
 
-
+	
 	std::cout << "2x - 6 = 0" << std::endl;
 
 	// Xuất kết quả nghiệm x
