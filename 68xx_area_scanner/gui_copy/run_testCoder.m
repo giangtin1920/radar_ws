@@ -1,2 +1,2 @@
 
-[a, MagicWord] = testCoder(1, 2);
+[frame(frNum).detObj] = getGtrackPtCloud(tlv.payload);

@@ -34,7 +34,7 @@
 
 function [frame, bytesBuffer, bytesBufferLen, numFramesAvailable,validFrame] = parseBytes_AS(bytesBuffer, bytesBufferLen, READ_MODE)
 
-    
+    frame = [];
     BYTES_BUFFER_MAX_SIZE = 2^16;
 
     MMWDEMO_UART_MSG_DETECTED_POINTS = 1;
@@ -64,7 +64,7 @@ function [frame, bytesBuffer, bytesBufferLen, numFramesAvailable,validFrame] = p
     % search for all indices of magic word in buffer (frame packet start)
     startIdxMagicWord = strfind(bytesBufferStr, char([2 1 4 3 6 5 8 7]));
     numFramesAvailable = numel(startIdxMagicWord)-1; 
-    validFrame = false;
+    validFrame = 0;
     if (numFramesAvailable>0)
         switch READ_MODE
             case 'LIFO'
@@ -81,51 +81,45 @@ function [frame, bytesBuffer, bytesBufferLen, numFramesAvailable,validFrame] = p
         end
        
         % preallocate frames to read
-        % frame = repmat(frameStruct,lastFrame2Read-firstFrame2Read+1,1);    
-        % frame = frameStruct;
+        frame = repmat(frameStruct,lastFrame2Read-firstFrame2Read+1,1);       
+        validFrame = zeros(1,lastFrame2Read-firstFrame2Read+1);
         % fill frame struct from bytes
-        
+        for frNum=1:lastFrame2Read-firstFrame2Read+1
             
             % get bytes for entire frame packet 
-            coder.varsize('frame.packet');
-            frame.packet = bytesBuffer(startIdxMagicWord(1+ firstFrame2Read-1):startIdxMagicWord(1+firstFrame2Read)-1);
-            idxBytesBuffer = startIdxMagicWord(firstFrame2Read+1)-1;
+            frame(frNum).packet = bytesBuffer(startIdxMagicWord(frNum+firstFrame2Read-1):startIdxMagicWord(frNum+firstFrame2Read)-1);
+            idxBytesBuffer = startIdxMagicWord(firstFrame2Read+frNum)-1;
            
             % get header from packet
-            frame.idxPacket = 0;
-            
-            frame.header = struct('magicWord',{'m'}, 'version',{'v'}, 'totalPacketLen',[], ...
-                'platform',4,'frameNumber',4, 'timeCpuCycles',4, 'numDetectedObj',4, ...
-                'numTLVs',4, 'subFrameNumber',4,'numStaticDetectedObj', 4);
-            coder.varsize('frame.header.totalPacketLen');
-            [frame.header, validFrame, frame.idxPacket] = getFrameHeader(frame.packet,frame.idxPacket);
+            frame(frNum).idxPacket = 0;
+            [frame(frNum).header, validFrame(frNum), frame(frNum).idxPacket] = getFrameHeader(frame(frNum).packet,frame(frNum).idxPacket);
 
             
             % get and parse TLV from packet message
-            if(validFrame)
-                for i=1:frame.header.numTLVs
+            if(validFrame(frNum))
+                for i=1:frame(frNum).header.numTLVs
                     % getTLV
-                    [tlv, frame.idxPacket] = getTLV(frame.packet, frame.idxPacket);
+                    [tlv, frame(frNum).idxPacket] = getTLV(frame(frNum).packet, frame(frNum).idxPacket);
                     
                     % parseTLV                   
                     switch tlv.type
                         case MMWDEMO_UART_MSG_DETECTED_POINTS
-                            [frame.detObj] = getGtrackPtCloud(tlv.payload);
+                            [frame(frNum).detObj] = getGtrackPtCloud(tlv.payload);
                     
                         case MMWDEMO_UART_MSG_DETECTED_POINTS_SIDE_INFO
-                            [frame.sideInfo] = getSideInfo(frame.header.numDetectedObj, tlv.payload);
+                            [frame(frNum).sideInfo] = getSideInfo(frame(frNum).header.numDetectedObj, tlv.payload);
 
                         case MMWDEMO_UART_MSG_STATIC_DETECTED_POINTS
-                            [frame.staticDetObj] = getDetObj(frame.header.numStaticDetectedObj, tlv.payload);
+                            [frame(frNum).staticDetObj] = getDetObj(frame(frNum).header.numStaticDetectedObj, tlv.payload);
                     
                         case MMWDEMO_UART_MSG_STATIC_DETECTED_POINTS_SIDE_INFO
                             [frame(frNum).staticSideInfo] = getSideInfo(frame(frNum).header.numStaticDetectedObj, tlv.payload);
                    
                         case MMWDEMO_UART_MSG_TRACKERPROC_TARGET_LIST
-                            [frame.targets] = getGtrackTargetList(tlv.payload);
+                            [frame(frNum).targets] = getGtrackTargetList(tlv.payload);
                         
                         case MMWDEMO_UART_MSG_TRACKERPROC_TARGET_INDEX
-                            [frame.pointType] = getGtrackPtType(tlv.payload);     
+                            [frame(frNum).pointType] = getGtrackPtType(tlv.payload);     
           
                         otherwise
                     end
@@ -134,7 +128,7 @@ function [frame, bytesBuffer, bytesBufferLen, numFramesAvailable,validFrame] = p
             end
                 
                  
-        
+        end
 
         if(idxBytesBuffer+1 < BYTES_BUFFER_MAX_SIZE) %TODO: Optimize so array size doesn't change
             temp = bytesBuffer(idxBytesBuffer+1:bytesBufferLen)';

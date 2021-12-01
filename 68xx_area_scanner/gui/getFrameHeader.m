@@ -33,9 +33,9 @@
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 function [frameHeader, validFrame, idxPacket] = getFrameHeader(framePacket,idxPacket)
-    [r, c] = size(framePacket);
+    [r c] = size(framePacket);
     if(r<c)
-        % framePacket = framePacket';
+        framePacket = framePacket';
     end
     word = [1 256 65536 16777216]';
     % size of the parameters    
@@ -47,18 +47,16 @@ function [frameHeader, validFrame, idxPacket] = getFrameHeader(framePacket,idxPa
     fnFrameHeader = fieldnames(frameHeaderSize);
     
     % parse values from framePacket into frameHeader
-    frameHeader = struct('magicWord',{'m'}, 'version',{'v'}, 'totalPacketLen',[], ...
-        'platform',4,'frameNumber',4, 'timeCpuCycles',4, 'numDetectedObj',4, ...
-        'numTLVs',4, 'subFrameNumber',4,'numStaticDetectedObj', 4);
+    frameHeader = struct();
     
     for i=1:numel(fnFrameHeader)
         idxStart = idxPacket+1;
         idxEnd = idxStart + frameHeaderSize.(fnFrameHeader{i})-1;
         
         if(strcmp(fnFrameHeader{i},'magicWord') || strcmp(fnFrameHeader{i},'version'))
-             % frameHeader.(fnFrameHeader{i}) = int2str(framePacket(idxStart:idxEnd)');
+             frameHeader.(fnFrameHeader{i})= int2str(framePacket(idxStart:idxEnd)');
         else
-            frameHeader.(fnFrameHeader{i}) = sum(framePacket(idxStart:idxEnd)' .* word);
+            frameHeader.(fnFrameHeader{i}) = sum(framePacket(idxStart:idxEnd) .* word);
         end
         
         idxPacket = idxEnd;
@@ -67,6 +65,6 @@ function [frameHeader, validFrame, idxPacket] = getFrameHeader(framePacket,idxPa
     % check if framePacket is valid
     validFrame = frameHeader.totalPacketLen == numel(framePacket);
     if(~validFrame)
-       % fprintf('Issue with Frame %d. Skipping. Expected packet length: %d; Actual length: %d. \n', frameHeader.frameNumber, frameHeader.totalPacketLen, numel(framePacket));
+       fprintf('Issue with Frame %d. Skipping. Expected packet length: %d; Actual length: %d. \n', frameHeader.frameNumber, frameHeader.totalPacketLen, numel(framePacket));
     end
 end

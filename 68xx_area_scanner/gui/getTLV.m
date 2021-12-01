@@ -33,9 +33,9 @@
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 function [tlv, idx] = getTLV(framePacket, idx)
-    [r, c] = size(framePacket);
+    [r c] = size(framePacket);
     if(r<c)
-        % framePacket = framePacket';
+        framePacket = framePacket';
     end
     word = [1 256 65536 16777216]';
     
@@ -45,8 +45,7 @@ function [tlv, idx] = getTLV(framePacket, idx)
     % get fieldnames of frame header struct
     fnFrameHeader = fieldnames(tlvSize);
     
-    tlv = struct('type',4, 'length',4, 'payload',[]);
-    coder.varsize('tlv.payload');
+    tlv = struct();
     
     for i=1:numel(fnFrameHeader)
         % subindices for parsing to struct fields
@@ -55,14 +54,12 @@ function [tlv, idx] = getTLV(framePacket, idx)
         
         % parse to struct fields
         if(~strcmp(fnFrameHeader{i},'payload'))
-            tlv.(fnFrameHeader{i}) = sum(framePacket(idxStart:idxEnd)' .* word);
+            tlv.(fnFrameHeader{i}) = sum(framePacket(idxStart:idxEnd) .* word);
         else
             if(isfield(tlv,'length'))
                 if(tlv.length ~=0) % have payload
-                    % idxEnd = idxStart+tlv.length-1;
-                    idxEnd = 13;
-                    
-                    tlv.payload = framePacket(idxStart:idxEnd)'; 
+                    idxEnd = idxStart+tlv.length-1;
+                    tlv.payload = framePacket(idxStart:idxEnd); 
                 else % no payload
                     tlv.payload = []; 
                 end

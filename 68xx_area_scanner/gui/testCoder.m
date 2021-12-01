@@ -1,4 +1,4 @@
-function [ptCloud] = getGtrackPtCloud(payload)
+function [ptCloud] = testCoder(payload)
 %UNTITLED3 Summary of this function goes here
 %   Detailed explanation goes here
 ptCloud = struct('numDetectedObj', 0, 'x', [], 'y', [], 'z',[], 'doppler', []);

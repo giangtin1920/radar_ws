@@ -1,1 +1,0 @@
-[tlv,idxPacket] = getTLV(newframe.packet, 1);

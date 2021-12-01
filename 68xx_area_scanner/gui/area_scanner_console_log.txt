@@ -1,6 +1,81 @@
-COM4 opened. 
-COM3 opened. 
-COM4 opened. 
-COM3 opened. 
-COM4 opened. 
-COM3 opened. 
+Opening configuration file 
+Parsing configuration file...
+COM6 opened. 
+COM7 opened. 
+Test successful: CFG Port Opened & Data ReceivedSending cfg file to device...
+sensorStop
+flushCfg
+Done
+dfeDataOutputMode 1
+Done
+channelCfg 15 7 0
+Done
+adcCfg 2 1
+Done
+adcbufCfg -1 0 1 1 1
+Done
+profileCfg 0 60.5 100 25 69 0 0 50 1 256 6000 0 0 30
+Done
+chirpCfg 0 0 0 0 0 0 0 1
+Done
+chirpCfg 1 1 0 0 0 0 0 2
+Done
+chirpCfg 2 2 0 0 0 0 0 4
+Done
+frameCfg 0 2 32 0 100 1 0
+Done
+lowPower 0 0
+Done
+guiMonitor -1 1 0 0 0 0 0
+Done
+cfarCfg -1 0 2 8 4 3 0 20 0
+Done
+cfarCfg -1 1 0 4 2 3 1 15 0
+Done
+multiObjBeamForming -1 1 0.5
+Done
+clutterRemoval -1 1
+Done
+calibDcRangeSig -1 0 -5 8 256
+Done
+extendedMaxVelocity -1 0
+Done
+bpmCfg -1 0 0 1
+Done
+lvdsStreamCfg -1 0 0 0
+Done
+compRangeBiasAndRxChanPhase 0.0 1 0 -1 0 1 0 -1 0 1 0 -1 0 1 0 -1 0 1 0 -1 0 1 0 -1 0
+Done
+measureRangeBiasAndRxChanPhase 0 1.5 0.2
+Done
+CQRxSatMonitor 0 3 15 125 0
+Done
+CQSigImgMonitor 0 115 6
+Done
+analogMonitor 0 0
+Done
+aoaFovCfg -1 -90 90 -90 90
+Done
+cfarFovCfg -1 0 0 11.11
+Done
+cfarFovCfg -1 1 -2.04 2.04
+Done
+staticBoundaryBox -8 8 0 8 -1 2
+Done
+boundaryBox -8 8 0 8 -1 2
+Done
+gatingParam 4 2 2 2 10
+Done
+stateParam 20 10 10 50 1
+Done
+allocationParam 200 155 0.5 10 2 2
+Done
+maxAcceleration 0.1 0.1 0.1
+Done
+trackingCfg 1 2 250 20 20 260 100 90
+Done
+heatmapGenCfg -1 1  0 6 50 60.0 3.0 10
+Done
+staticDetectionCfg -1 0 -50.0 +50.0 -30.0 20.0 0.7 5.0 0.2 4 20.0
+Done
+sensorStart
