@@ -112,22 +112,22 @@ structHeader getFrameHeader (uint8_t framePacket[], uint16_t dataLen)
 	return frameHeader;
 }
 
-structTLV getTLV (uint8_t framePacket[], uint32_t numTLVs, uint16_t idX)
+structTLV getTLV (uint8_t framePacket[], uint32_t numTLVs, uint16_t idX1)
 {
 	structTLV tlv;
 
 	// Check the header of the TLV message
 	for (auto tlvIdx = 0; tlvIdx < numTLVs; tlvIdx++)
 	{
-		tlv.type = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
-		idX += 4;
-		tlv.length = framePacket[idX]*1 + framePacket[idX + 1]*256.0 + framePacket[idX + 2]*65536.0 + framePacket[idX + 3]*1.6777216E+7;
-		idX += 4;
+		tlv.type = framePacket[idX1]*1 + framePacket[idX1 + 1]*256.0 + framePacket[idX1 + 2]*65536.0 + framePacket[idX1 + 3]*1.6777216E+7;
+		idX1 += 4;
+		tlv.length = framePacket[idX1]*1 + framePacket[idX1 + 1]*256.0 + framePacket[idX1 + 2]*65536.0 + framePacket[idX1 + 3]*1.6777216E+7;
+		idX1 += 4;
 		for (auto i = 0; i < tlv.length ; i++)
 			{
-				tlv.payload.push_back(framePacket[idX + i]);
+				tlv.payload.push_back(framePacket[idX1 + i]);
 			}
-		idX += tlv.length;
+		idX1 += tlv.length;
 
 		switch (tlv.type)
 		{
@@ -169,6 +169,7 @@ structTLV getTLV (uint8_t framePacket[], uint32_t numTLVs, uint16_t idX)
 
 		
 	}
+	return tlv1;
 }
 
 int main()
@@ -231,9 +232,10 @@ int main()
 
 
 	sort(ptCloud.y.begin(), ptCloud.y.end());
+	
 
 	
-	std::cout << "2x - 6 = 0" << std::endl;
+	std::cout << "kq" << ptCloud.y[0];
 
 	// Xuất kết quả nghiệm x
 	std::cout << "x = " << (6 / 2) << std::endl;
