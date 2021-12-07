@@ -1,0 +1,75 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <iostream>
+#include <string.h>
+#include <vector>
+
+using namespace std;
+
+int main()
+{
+   vector<float> bufDistance;
+   float delta_2 = 6;
+   float numRangePt_2 = 1;
+   float ptCloud = 0.0001;
+
+
+   int t = 0;
+   float outDistance = 0.0;
+   while( t < 100)
+   {
+       outDistance = 0.0;
+       bufDistance.push_back(ptCloud);
+       if (t == 7) ptCloud += 10;
+       ptCloud += 1;
+   
+       // buffer output distance has 5 elements
+       if (bufDistance.size() == 6)
+       {
+           bufDistance.erase(bufDistance.begin());
+       }
+       
+       if (bufDistance.size() > 1)
+       {
+           float rangePt_2 = (float)(bufDistance.size())/2;
+           for (auto i = 0; i < bufDistance.size() - 1; i++)
+           {
+                numRangePt_2 = 1;
+                for (auto j = 0; j < bufDistance.size() - 1 - i; j++)
+                {
+                    if((bufDistance[i + j +1] - bufDistance[i]) < delta_2)
+                    {
+                        numRangePt_2++;
+                    }
+                }
+                // ROS_INFO("numRangePt_2 = %f", numRangePt_2);
+    
+                if(numRangePt_2 >= rangePt_2)
+                {
+                    for (auto k = i; k < i + (int)numRangePt_2; k++) {
+                        outDistance += bufDistance[k];
+                    }
+                    outDistance = outDistance/(int)numRangePt_2;
+                    break;
+                }
+               
+           }
+       }
+       if (bufDistance.size() == 1)
+       {
+           outDistance = bufDistance[0];
+       }
+       
+        t++;
+   }
+  
+  
+  return 0;
+}
+
