@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Front Page",
+        "mainCategories": [],
+        "subCategories": [],
+        "resourceType": "file",
+        "location": "../frontPage.html",
+        "resourceClass": ["document"]
+    },
+    {
+		"name": "Antenna Database",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../antennas/antennas_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+	},
+    
+    {
+		"name": "Certification",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../certification/certification_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+    },
+
+	{
+		"name": "Chirp Database",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../chirps/chirps_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+  	},
+	
+	{
+		"name": "Documentation",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../docs/readme.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+  	},
+
+	{
+		"name": "Experiments",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../experiments/experiments_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+  	},
+
+	{
+		"name": "Labs",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../labs/labs_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+  	},
+
+	{
+		"name": "Tools",
+		"mainCategories": [],
+		"subCategories": [],
+		"location": "../../tools/tools_landing.html",
+		"resourceType": "categoryInfo",
+		"resourceClass": ["document"]
+  	}
+]

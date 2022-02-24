@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Parking Lot Setup File Overview</title>
+</head>
+
+<!-- START PRE -->
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/styles/link.css"/>
+<!-- END PRE -->
+
+<xmp style="display:none;" class="col-xs-6">
+
+# Parking Lot Setup File Overview and Structure
+===========
+
+## Parking Lot GUI Setup file 
+
+The MATLAB GUI for Parking Garage Sensors uses a CSV setup file to determine the number of active parking spots being monitored, as well as the relative position and size of the spots.,
+This allows the GUI to be modified for any new parking lot, including unevenly spaced parking spots, without modifying the GUI sorce code.
+The file includes both space size and filter parameters for the detection logic to indicate an occupied space.
+Example CSV files are provided, the parameter descriptions are included in the table below.
+
+Parameter					| Default Values		| Description
+----------------			|-----------------------|-----------------
+constantFrameCountThresh	| 5						| Number of frames in staticPtCloudHistoryThresh frames a static pt must be active before it is displayed. Increasing this value will decrease the number of static points displayed and used for determining space occupancy. This can be helful to filter out intermitten reflections
+staticPtCloudHistoryThresh	| 70					| Number of frames to look for constant pts. Increasing this value will increase the number of static points appearing in the GUI. If a static point exists at the same location for greater than the constantFrameCountThreshold with in the previous staticPtCloudHistoryThresh number of frames, the static point will be displayed. Using the default values, a static point would need to exist for 5 of the previous 70 frames before it appears on screen. These filters help reduce intermittent static detections from multipath reflections.
+numSpots					| 4						| Total number of parking spots in the FOV, include a spotSize for each spot below. Up to 4 parking spots has been tested. This value must match the number of parkingSpotSize parameters in the following lines.
+parkingSpotSize[1-4]		| 0.4 5 2 4				| Location and size of parking spot. Measured from bottom left corner of spot (in m) [X,Y,width,height]. The default values places a parking spot zone of width 2 m and height 4 meters, with the bottom left corner located at position (0.4, 5) relative the to location of the sensor. These values should be modified to match the parking lot setup being monitored.
+pSpotOccupiedPtsThresh		| 2						| Number of static points required inside parking space before it is considered occupied. Increasing this parameter will require more individual static points inside the parking spot before it is marked occupied. 
+pSpotOccupiedHyst			| 50					| Number of occupied frames before a parking spot is marked occupied. Increasing this parameter will increase the delay between a car occupying a spot and the GUI marking the spot occupied. This can be helpful to reduce intermittent occupancy detection. Using the default parameters, a parking spot would need 2 static points inside the allocated spot for at least 50 frames before the space is marked occupied.
+snrThresh					| 20					| Minimum SNR for static point to be reported. Increasing this value will reduce the number of static points displayed by the GUI, as it will filter out any static points with a lower SNR value than input here.
+displayWarningSpot			| 1						| Toggle the display of the warning zone in front of the parking spaces. Set 1 to enable the spot, set 0 to disable and hide the warning zone.
+hWarningSpotSize			| -5 2 10 2				| Location and size of warning zone. Measured from bottom left corner of spot (in m) [X,Y,width,height]. The default values place the warning zone in front of the parking spaces. Modify the position and size to move the warning zone around the scene.
+wSpotOccupiedPtsThresh		| 6						| Number of static points required inside the warning zone before it is considered occupied. Increasing this number will require static points inside the warning zone before the warning is triggered. This can help to reduce false detections.
+wSpotOccupiedHyst			| 5						| Number of occupied frames before the warning zone is marked occupied. Increasing this value will add more of a delay between a car stopping in the warning zone and the zone warning being triggered. This can help to prevent false warning detection or provide cars time to pause in the warning zone before triggering a warning.
+
+These values can be modified even when running the GUI with recorded data. This will help tune the filter and placement parameters for best performance.
+
+The order of the parameters in the CSV file does not matter. The parsing function for this file can be in the GUI folder under parseParkingSetup.m. 
+If more than 4 parking spaces are required, this function will need to be modified.
+
+</xmp>
+
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/highlight/styles/zenburn.css"/>
+<script src="../../../../.metadata/.html/scripts/strapdown/vendor/jquery-1.11.2.min.js"></script>
+<script src="../../../../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+<script src="../../../../.metadata/.html/scripts/highlight/highlight.pack.js"></script>
+<script src="../../../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.js"></script>
+</html>

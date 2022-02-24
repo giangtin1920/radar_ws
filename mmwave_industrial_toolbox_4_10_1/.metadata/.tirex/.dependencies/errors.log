@@ -1,0 +1,1041 @@
+File not found: AUTOMATED_DOORS_PARENT_DIR/common/src/dpc/objectdetectionandtracking/staticobjdetdsp/src/objectdetection.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_dss.projectspec
+
+File not found: AUTOMATED_DOORS_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: AUTOMATED_DOORS_PARENT_DIR/common/src/utils/tracker/tracker_utils.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: AUTOMATED_DOORS_PARENT_DIR/common/src/utils/tracker/tracker_utils.h
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mss_main.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_cli.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_lvds_stream.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_mss.cfg
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_mss_linker.cmd
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec
+
+File not found: AREA_SCANNER_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: AREA_SCANNER_PARENT_DIR/common/src/utils/tracker/tracker_utils.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: AREA_SCANNER_PARENT_DIR/common/src/utils/tracker/tracker_utils.h
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/dss_main.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/mmw_dss.cfg
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/mmw_dss_linker.cmd
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdetdsp/src/objectdetection.c
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/c674x_linker.cmd
+In project: labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec
+
+File not found: AREA_SCANNER_PARENT_DIR/common/src/dpc/objectdetectionandtracking/staticobjdetdsp/src/objectdetection.c
+In project: labs/Area_Scanner/src/68xx/68xx_area_scanner_dss.projectspec
+
+File not found: GESTURE_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdethwa/src/objectdetection.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.h
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpif/src/dpif_utils.c
+In project: labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_aop_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/c674x_linker.cmd
+In project: labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_aop_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdethwa/src/objectdetection.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/data_path.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw_lvds_stream.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw.cfg
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mss_mmw_linker.cmd
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/c674x_linker.cmd
+In project: labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_ods_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_ods_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr14xx/r4f_linker.cmd
+In project: labs/Level_Sensing/src/14xx/high_accuracy_14xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Level_Sensing/src/6443/high_accuracy_64xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Level_Sensing/src/6443/high_accuracy_64xx.projectspec
+
+File not found: LRPD_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdethwa/src/objectdetection.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.h
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpif/src/dpif_utils.c
+In project: labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Level_Sensing/src/68xx/high_accuracy_68xx_mss.projectspec
+
+File not found: LRPD_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetdsp/src/objectdetection.c
+In project: labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/config_edma_util.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/config_hwa_util.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/main.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/sensor_mgmt.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/post_processing.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/mss_mmw_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/rx_ch_bias_measure.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr14xx/mmw/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwDemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr14xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec
+
+File not found: LRPD_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_mmw.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_config_edma_util.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_config_edma_util.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_data_path.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/rx_ch_bias_measure.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: TI_PRODUCTS_DIR/dsplib_c64Px_3_4_0_0/packages/ti/dsplib/src/DSP_fft16x16/c64P/gen_twiddle_fft16x16.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: TI_PRODUCTS_DIR/dsplib_c64Px_3_4_0_0/packages/ti/dsplib/src/DSP_fft32x32/c64P/gen_twiddle_fft32x32.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_resources.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/dss/dss_lvds_stream.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwDemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwDemo_monitor.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr16xx/c674x_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/mss/mss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/mss/mss_mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/mss/mss_mmw.h
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/mss/cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr16xx/mmw/mss/mss_mmw_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr16xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdethwa/src/objectdetection.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/main.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mss_mmw_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/dss/dss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/dss/data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/dss/mmw_dss.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/dss/mmw_dss_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdethwa/src/objectdetection.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr18xx/c674x_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/mss/mss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/mss/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/mss/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/mss/mmw_mss.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr18xx/mmw/mss/mmw_mss_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr18xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdethwa/src/objectdetection.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/main.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr64xx/mmw/mss_mmw_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/board/antenna_geometry.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/dss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/mmw_dss.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/dss/mmw_dss_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdetdsp/src/objectdetection.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/c674x_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec
+
+File not found: PARKING_GARAGE_SENSOR_PARENT_DIR/common/src/dpc/objectdetectionandtracking/staticobjdetdsp/src/objectdetection.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_dss.projectspec
+
+File not found: PARKING_GARAGE_SENSOR_PARENT_DIR/common/src/dpu/staticdetproc/src/staticdetprocdsp.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/datapath/dpc/objectdetection/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mss_main.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_mss.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_mss_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/datapath/dpc/objectdetection/objdethwa/src/objectdetection.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/xwr64xx/mmw/data_path.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/xwr64xx/mmw/mmw_cli.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/xwr64xx/mmw/mmw_lvds_stream.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/xwr64xx/mmw/mmw.cfg
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/xwr64xx/mmw/mss_mmw_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpc/capon3d/src/objectdetection.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/src/radarProcess.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/src/copyTranspose.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_angleEst.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_DopplerEst.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_heatmapEst.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_staticRemoval.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_bpmDecoding.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_utils.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_rnEstInv.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_staticHeatMapEst.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_priv.h
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/detection/CFAR/src/RADARDEMO_detectionCFAR.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.h
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/postProcessing/matrixFunc/src/MATRIX_cholesky.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/capon3d/modules/postProcessing/matrixFunc/src/MATRIX_cholesky_dat.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec
+
+File not found: PARKING_GARAGE_SENSOR_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: PARKING_GARAGE_SENSOR_PARENT_DIR/common/src/utils/tracker/tracker_utils.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: PARKING_GARAGE_SENSOR_PARENT_DIR/common/src/utils/tracker/tracker_utils.h
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_rfparser.h
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_adcconfig.h
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_monitor.h
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_lvds_stream.c
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/xwr68xx/mmw/mss/mmw_lvds_stream.h
+In project: labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpc/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_mss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/rangeprochwa/src/rangeprochwa.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_mss.projectspec
+
+File not found: ${PC_PARENT_DIR}/common/src/dpu/trackerproc_overhead/src/trackerproc_3d.c
+In project: labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_mss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpc/capon3d_overhead/src/objectdetection.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/src/radarProcess.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/src/copyTranspose.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_angleEst.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_DopplerEst.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_heatmapEst.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_staticRemoval.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_utils.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_rnEstInv.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_staticHeatMapEst.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/DoA/CaponBF2D/src/RADARDEMO_aoaEst2DCaponBF_priv.h
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/detection/CFAR/src/RADARDEMO_detectionCFAR.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.h
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/utilities/cycle_measure.h
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/postProcessing/matrixFunc/src/MATRIX_cholesky.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/capon3d_overhead/modules/postProcessing/matrixFunc/src/MATRIX_cholesky_dat.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/radarProcess.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/radarProcess.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/api/RADARDEMO_rangeProc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_utils.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/api/RADARDEMO_detectionCFAR.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radar_c674x.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/api/RADARDEMO_aoaEstCaponBF.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_DopplerEst.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_heatmapEst.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_matrixInv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec
+
+File not found: TM_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetdsp/src/objectdetection.c
+In project: labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_dss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpc/objdetrangehwa_overhead/src/objdetrangehwa.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_mss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/trackerproc_overhead/src/trackerproc_3d.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_mss.projectspec
+
+File not found: ${OVERHEAD_PC_PARENT_DIR}/common/src/dpu/rangeprochwa_overhead/src/rangeprochwa.c
+In project: labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_mss.projectspec
+
+File not found: TM_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetdsp/src/objectdetection.c
+In project: labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_dss.projectspec
+
+File not found: TM_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/api/RADARDEMO_rangeProc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_distanceUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_distanceUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_featExtrUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_featExtrUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_svmKernelUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_svmKernelUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNN.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNN_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNNCB.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierSVM.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierSVM_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierCommon.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierKNN.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierSVM.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/classifierkNN_process.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/classifierkNN_process.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_inputParser.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_inputParser.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_targetManager.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_targetManager.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/src/RADARDEMO_featExtract_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/src/RADARDEMO_featExtract.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/api/RADARDEMO_featExtraction.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec
+
+File not found: TM_PARENT_DIR/common/src/dpc/objectdetectionandtracking/objdetrangehwa/src/objdetrangehwa.c
+In project: labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_rfparser.c
+In project: labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_adcconfig.c
+In project: labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_mss.projectspec
+
+File not found: ${COM_TI_MMWAVE_SDK_INSTALL_DIR}/packages/ti/demo/utils/mmwdemo_monitor.c
+In project: labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr14xx/r4f_linker.cmd
+In project: labs/Vital_Signs/14xx_vital_signs/pjt/vitalSigns_lab.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/radarProcess.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/radarProcess.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/api/RADARDEMO_rangeProc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/src/RADARDEMO_rangeProc_utils.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/api/RADARDEMO_detectionCFAR.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/detection/CFAR/src/RADARDEMO_detectionCFAR_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radar_c674x.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/api/RADARDEMO_aoaEstCaponBF.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_DopplerEst.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_heatmapEst.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/DoA/CaponBF/src/RADARDEMO_aoaEstCaponBF_matrixInv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/c674x_linker.cmd
+In project: labs/Vital_Signs/68xx_vital_signs/src/vital_signs_68xx_dss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/demo/utils/mmwdemo_flash.c
+In project: labs/Vital_Signs/68xx_vital_signs/src/vital_signs_68xx_mss.projectspec
+
+File not found: COM_TI_MMWAVE_SDK_INSTALL_DIR/packages/ti/platform/xwr68xx/r4f_linker.cmd
+In project: labs/Vital_Signs/68xx_vital_signs/src/vital_signs_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/rangeProc/rangeProc/api/RADARDEMO_rangeProc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/radarOsal_malloc.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/utilities/cycle_measure.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_distanceUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_distanceUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_featExtrUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_featExtrUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_svmKernelUtil_priv.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classificationUtilities/src/RADARDEMO_svmKernelUtil_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNN.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNN_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierkNNCB.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierSVM.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/src/RADARDEMO_classifierSVM_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierCommon.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierKNN.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/api/RADARDEMO_classifierSVM.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/classifierkNN_process.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/classifierkNN_process.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_inputParser.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_inputParser.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_targetManager.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/classifier_kNN/utils/Util_ClassifierkNN_targetManager.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/src/RADARDEMO_featExtract_priv.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/src/RADARDEMO_featExtract.c
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+
+File not found: TI_IFDM_COMMON_BASE/modules/classification/featureExtraction/api/RADARDEMO_featExtraction.h
+In project: labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec
+

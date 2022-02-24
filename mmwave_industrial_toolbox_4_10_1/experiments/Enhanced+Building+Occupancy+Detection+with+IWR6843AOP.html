@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Enhanced Building Occupancy Detection with IWR6843AOP</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="../.metadata/.html/scripts/toolbox.js"></script>
+        <script src="../.metadata/.html/scripts/toolbox_fixes.js"></script>
+        <link rel="stylesheet" href="../.metadata/.html/styles/link.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css">
+        <style>
+            .img-responsive {
+            max-height: 300px;
+            }
+            .btn-primary {
+            margin: 5px;
+            }
+        </style>
+    </head>
+    <body style="">
+        <div class="container">
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <div id="headline" class="navbar-brand">Enhanced Building Occupancy Detection with IWR6843AOP</div>
+                    </div>
+                </div>
+            </nav>
+            <div class="container">
+                <div class="row row-offcanvas row-offcanvas-left">
+                    <div class="col-xs-12 col-sm-9" id="content">
+                        <p><strong>Introduction</strong></p>
+                        <p>Maintaining an accurate and updated count of current building occupancy is useful for many applications. Many entrance and occupancy sensors, such as PIR sensors or IR beam break counters, can have difficulties accurately sensing entrance and exit counts for multiple people. By using TI mmWave radar devices, such as the IWR6843AOP, occupancy detection systems can recognize and differentiate individual people and their location, increasing accuracy over traditional methods, while still allowing for small, discrete implementation and form factor with the antenna on package design of the IWR6843AOP device.</p>
+                        <p>The objective of this experiment is to use the Overhead 3D people counting demo running on TI mmWave Sensor to count people entering and exiting a zone of interest such as a conference room, cafeteria or a store.  The experiment was performed in a Cafeteria with the sensor setup near the cafeteria entrance to count the number of people walking in and out of the cafeteria. Using the information, the GUI is able to maintain an accurate count of people inside the Cafeteria at any given time.</p>
+                        <p><strong>Hardware and Software Setup:</strong></p>
+                        <ol>
+                            <li>This experiment was setup near the entrance of an office cafeteria. The specific size of the cafeteria (or conference room etc) is not very important since the people counter is setup at the entrance. However, there should be at least 1.5m space along the Y axis i.e. the entry exit hallway to accommodate the entry/exit crossings as shown in the image below.<br><img style="" src="./images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/image2021-4-16_10-28-27.png" class="img-responsive"></li>
+                            <li>Follow the hardware and software setup procedures listed in the 68xx - Overhead 3D People Counting Demo user guide to setup the People Counting Demo with IWR6843AOP EVM and place the tripod near the zone entrance as shown in the above picture (Sensor Mounting Position).</li>
+                            <li>Use the Low Bandwidth mode binary and configuration files for this experiment, packaged in the folder below with matlab source files for the GUI.<br><a href="./images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/overhead_occupancy_counter_gui.zip" class="btn btn-primary">overhead_occupancy_counter_gui.zip</a></li>
+                            <li>
+                                <strong>Important: </strong>Please use the <strong>Overhead_demo_visualizer_occupancy_counter</strong> GUI provided with this experiment instead of the visualizer GUI provided in the overhead 3D people counting demo.
+                                <ul>
+                                    <li>The <strong>Overhead_demo_visualizer_occupancy_counter</strong> GUI provided with this experiment works with the Overhead People counting demo binaries and configuration files and is custom modified to count people as they walk in an out of the cafeteria (or conf. room etc).</li>
+                                </ul>
+                            </li>
+                        </ol>
+                        <p><strong>Method:</strong></p>
+                        <ol>
+                            <li>With the hardware and Software setup ready and the Overhead Occupancy Counter GUI running on the PC, people can start walking in to the cafeteria.</li>
+                            <li><strong>Entry Count:</strong> Each time a person walking into the cafeteria crosses the Entry Crossing line (Y = +1.25m), the Entry Count on the GUI will increment by 1.</li>
+                            <li><strong>Exit Count:</strong> Each time a person walking out of the cafeteria crosses the Exit Crossing line (Y = -1.25m), the Exit Count on the GUI will increment by 1.</li>
+                            <li><strong>Current Occupancy:</strong> The difference between Entry Count and Exit Count is shown as the Current Occupancy Count in the GUI.</li>
+                            <li>Please note that the GUI does not check for negative occupancy count so if the number of people walking out exceeds the number of people walking in, the Current Occupancy Count will become negative. This can be fixed by modifying the GUI source file.</li>
+                        </ol>
+                        <p><strong>Results:</strong></p>
+                        <ol>
+                            <li>The results of this experiment are demonstrated in the video clips below. The occupancy counter is able to count people walking in and out of the zone of interest. A running count of number of people entered, exited, and currently occupying the building or area can be seen to updated in real time on the left side of the screen.<br></li>
+                            <p><video autoplay muted loop>
+                                <source src="images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/Normal_walking_Occupancy_detection.mp4" type="video/mp4">
+                            </video></p>
+                            <li>The occupancy counter is able to count multiple people walking in side by side, which is typically difficult for traditional IR beam based entry exit monitoring solutions.<br></li>
+                            <p><video autoplay muted loop>
+                                <source src="images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/2peopleAtOnce.mp4" type="video/mp4">
+                            </video></p>
+                            <li>The occupancy counter is able to keep accurate count of current occupancy when people enter and exit at the same time. The occupancy increments for the person entering, and decrements for the person exiting.<br><br></li>
+                            <p><video autoplay muted loop>
+                                <source src="images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/In_and_Out_Test.mp4" type="video/mp4">
+                            </video></p>
+                            <li>If a person approaches the building or room entrance, but then changes their mind about entering and turns around, the occupancy counter will not count them as entering the building. The sensor is able to detect and track the approaching person, recognize that the same person who approached has turned around, and does not increase the current occupancy count of the building as desired.<br></li>
+                            <p><video autoplay muted loop>
+                                <source src="images/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP/nevermind.mp4" type="video/mp4">
+                            </video></p>
+                            <li>The results of this experiment show that the Overhead occupancy counter based on the 68xx – Overhead 3D People Counting Demo running on the IWR6843AOP EVM is able to accurately maintain the occupancy count inside a zone of interest by counting the number of people walking in an out of the zone entrance.</li>
+                        </ol>
+                    </div>
+                    <div class="col-xs-4 col-sm-2 sidebar-offcanvas bs-docs-sidebar hidden-print" id="sidebar-overview">
+                        <ul class="nav nav-stacked fixed" id="sidebar"></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+        <div class="modal" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="vertical-alignment-helper">
+                <div class="modal-dialog vertical-align-center">
+                    <div class="modal-dialog">
+                        <div class="modal-content" style="margin-left: auto;margin-right: auto;">
+                            <div class="modal-body">
+                                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> <img src="" class="imagepreview"> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

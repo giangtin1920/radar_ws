@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Industrial Toolbox Antennas</title>
+</head>
+
+<!-- START PRE -->
+<link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css"/>
+<link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css"/>
+<link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css"/>
+<link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css"/>
+<link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/strapdown.css"/>
+<link rel="stylesheet" href="../.metadata/.html/styles/link.css"/>
+<!-- END PRE -->
+
+<xmp style="display:none;" class="col-xs-6">
+
+
+[[y! Angular Resolution vs Angular Accuracy
+    Angular resolution is defined as how far apart two objects need to be 
+    (in degrees) for them to be detected as different/separate objects. It is
+    different from ‘Angular Accuracy’ which is how accurately the angle of an
+    object is detected.
+]]
+
+# TI mmWave Antennas
+
+    The mmWave Antennas collection is an easy-to-search repository of different
+    mmWave antennas put together by the TI mmWave team.
+    
+    TI-designed antennas are available to get started reusing the stack-up and
+    layout for the same antenna for your application.
+    
+    Each antenna design is validated as a part of a board design. Depending on
+    your application, you can choose an antenna from the table below. Please
+    click on the respective row below to get details about it.
+
+
+    | Design | Azimuth FOV (deg)* | Elevation FOV (deg)* | Azimuth Angular Resolution(deg) | Elevation Angular Resolution (deg) | Max Distance for Person (m) ** |
+    |--------|--------------------|----------------------|---------------------------------|------------------------------------|--------------------------------|
+    |IWR1443BOOST (77GHz) | +/-60 | +/-15                | 15                              | 60                                 | 70                             |
+    |IWR1642BOOST (77GHz) | +/-60 | +/-15                | 15                              | N/A                                | 90                             |
+    |IWR1843BOOST (77GHz) | +/-60 | +/-15                | 15                              | 58                                 | 80                             |
+    |IWR6843ISK (60GHz)   | +/-60 | +/-15                | 15                              | 58                                 | 75                             |
+    |IWR6843ODS (60GHz)   | +/-60 | +/-60                | 29                              | 29                                 | 60                             |
+    |IWR6843AoP (60GHz)   | +/-60 | +/-60                | 29                              | 29                                 | 60                             |
+    |IWR6843L (60GHz)     | +/-60 | +/-40                | 15                              | 58                                 | 35                             |
+
+    \*6dB beam width of resultant pattern due to Tx and Rx combination
+
+    **Max distance is calculated only at the zero degree bore sight, performance 
+        decreases as targets move to the side angles
+
+
+----
+# Partner mmWave Modules
+
+
+    | Partner and Design                    | Device           | Azimuth FOV (deg)* | Elevation FOV (deg)* | Azimuth Angular Resolution(deg) | Elevation Angular Resolution (deg) | Max Distance for Car (m) ** | Max Distance for Person (m) ** | Outputs                    | Size (mm x mm)         | Certifications |
+    |---------------------------------------|------------------|--------------------|----------------------|---------------------------------|------------------------------------|-----------------------------|--------------------------------|----------------------------|------------------------|----------------|
+    | Plextek (Sectoral Horn Antenna Design | IWR6843 (60 GHz) |  90 (+/-45)        | 17 (+/-8.5)          | * Contact Vendor                | *                                  |   *                         | 50                             | *                          | *                      | TBD            |
+    | Smart Radar Systems (RM14-S2)         | IWR1443 (77 GHz) | 150 (+/-75)        | 25                   | 10                              | 20 (with MIMO 2 RX)                |  70                         | 20                             | CAN, UART                  | 40 x 60                | TBD            |
+    | Smart Radar Systems (RM14-02)         | IWR1443 (77 GHz) | 120 (+/-60)        | 40                   | 20                              | 20 (with MIMO 2 RX)                |  70                         | 30                             | CAN, UART                  | 40 x 40                | TBD            |
+    | Smart Radar Systems (RM16-02)         | IWR1642 (77 GHz) | 120 (+/-60)        | 40                   | 20                              | N/A                                |  70                         | 30                             | CAN, UART                  | 40 x 40                | TBD            |
+    | Smart Radar Systems (RM16-10)         | IWR1642 (77 GHz) | 120 (+/-60)        | 40                   | 20                              | N/A                                |  70                         | 30                             | UART                       | 30 x 30                | TBD            |
+    | Smart Radar Systems (RM01)            | IWR1443 (77 GHz) | 120 (+/-60)        | 30 (+/-15)           | 15                              | 60                                 | 120                         | 47                             | SPI, CSI                   | 44 x 30                | CE, FCC        |
+    | D3 (Designcore)                       | IWR1443 (77 GHz) | 120 (+/-60)        | 30 (+/-15)           | 15                              | 60                                 | 120                         | 47                             | SPI. CAN                   | 38 x 38                | TBD            |
+    | Jorjin (MT5A61E01K)                   | IWR1642 (77 GHz) | 120 (+/-60)        | 30 (+/-15)           | 15                              | N/A                                | 199                         | 37                             | SPI, UART                  | 57 x 65 (with housing) | UL             |
+    | Smart Radar Systems (RM68-01)         | IWR6843 (60 GHz) | 100 (+/-50)        | 40 (+/-20)           | 20                              | 20                                 |  50                         | 20                             | CAN, UART                  | 40 x 40                | TBD            |
+    | RFBeam (V-MD3) Mode1                  | IWR6843 (60 GHz) |  70 (+/-35)        | 70 (+/-35)           | 20                              | 20                                 |  50                         | 20                             | I2C, Serial, Ethernet, CAN | 71 x 56 x 18           | TBD            |
+    | RFBeam (V-MD3) Mode2                  | IWR6843 (60 GHz) |  30 (+/-15)        | 30 (+/-15)           | 20                              | 20                                 |  75                         | 25                             | I2C, Serial, Ethernet, CAN | 71 x 56 x 18           | TBD            |
+    | D3 Engineering (DesignCore)           | IWR6843 (60 GHz) |  26 (+/-13)        | 26 (+/-13)           | 18                              | 17                                 |   -                         |  -                             | UART, CAN, I2C, SPI, GPIO  | 51 x 60                | TBD            |
+    
+    
+    \*6dB beam width of resultant pattern due to Tx and Rx combination
+
+    **Max distance is calculated only at the zero degree bore sight, performance 
+        decreases as targets move to the side angles
+
+</xmp>
+
+<link rel="stylesheet" href="../.metadata/.html/scripts/highlight/styles/zenburn.css"/>
+<script src="../.metadata/.html/scripts/strapdown/vendor/jquery-1.11.2.min.js"></script>
+<script src="../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+<script src="../.metadata/.html/scripts/highlight/highlight.pack.js"></script>
+<script src="../.metadata/.html/scripts/strapdown/v/0.2/strapdown.js"></script>
+</html>

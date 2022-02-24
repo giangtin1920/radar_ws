@@ -1,0 +1,211 @@
+[
+    {
+        "name": "100meter Optimized Level Sensing Field Transmitter",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/100meter+Optimized+Level+Sensing+Field+Transmitter.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Area Scanner",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Area+Scanner.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Chirps Landing",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/chirps_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Elevator Position And Velocity Sensing",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Elevator+Position+and+Velocity+Sensing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "People Tracking And Counting Application",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/People+Tracking+and+Counting+Application.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Power Optimized Level Sensing Field Transmitter",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Power+Optimized+Level+Sensing+Field+Transmitter.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Robotics Agv Application",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Robotics+AGV+application.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Short Range Radar",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Short+Range+Radar.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Traffic Monitoring Radar",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Traffic+Monitoring+Radar.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Very Fine Motion Detection",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Very+Fine+Motion+Detection.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Zone Occupancy Detection",
+        "mainCategories": [
+            [
+                "Chirp Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../chirps/Zone+Occupancy+Detection.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]

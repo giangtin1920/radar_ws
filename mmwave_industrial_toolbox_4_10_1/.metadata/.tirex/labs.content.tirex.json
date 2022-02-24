@@ -1,0 +1,3446 @@
+[
+    {
+        "name": "Area Scanner",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Area_Scanner/docs/area_scanner_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Area Scanner Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Area Scanner"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Area_Scanner/docs/area_scanner_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Area Scanner Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Area Scanner"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Area_Scanner/docs/area_scanner_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "CLI Commands",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Area Scanner"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Area_Scanner/docs/cli_commands.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Area Scanner DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Area Scanner"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Area_Scanner/src/68xx/68xx_area_scanner_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Area Scanner MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Area Scanner"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Area_Scanner/src/68xx/68xx_area_scanner_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Automated Doors And Gates",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Automated_Doors_And_Gates/docs/automated_doors_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Automated Doors Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Automated_Doors_And_Gates/docs/automated_doors_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Automated Doors User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Automated_Doors_And_Gates/docs/automated_doors_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "CLI Commands",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Automated_Doors_And_Gates/docs/cli_commands.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Static Object Detection Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Automated_Doors_And_Gates/docs/static_object_detection_notes.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Automated Doors DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Automated Doors MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Automated Doors And Gates"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Automated_Doors_And_Gates/src/68xx/68xx_automated_doors_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Fundamentals",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Fundamentals/fundamentals_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Hard Coded Config",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Fundamentals/Hard_Coded_Config/docs/hard_coded_config_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Hard Coded Config User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Hard Coded Config"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Fundamentals/Hard_Coded_Config/docs/hard_coded_config_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Hard Coded Config 68xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Hard Coded Config"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Hard Coded Config 68xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Hard Coded Config"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Fundamentals/Hard_Coded_Config/src/Hard_Coded_Config_68xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Low Power Demo",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Fundamentals/Low_Power_Demo/docs/68xx_low_power_demo_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "68xx Low Power Demo Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Low Power Demo"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Fundamentals/Low_Power_Demo/docs/68xx_low_power_demo_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Low Power Demo User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Low Power Demo"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Fundamentals/Low_Power_Demo/docs/68xx_low_power_demo_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Low Power Demo",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Fundamentals",
+            "Low Power Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Fundamentals/Low_Power_Demo/src/68xx_low_power_demo.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Gesture Recognition",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Gesture_Recognition/gesture_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Gesture And Presence Detection 64xx",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/docs/gesture_and_presence_detection_64xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Gesture And Presence Detection 64xx Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Gesture And Presence Detection 64xx"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/docs/gesture_and_presence_detection_64xx_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Gesture And Presence Detection 64xx Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Gesture And Presence Detection 64xx"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/docs/gesture_and_presence_detection_64xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "64xx Gesture And Presence Det",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Gesture And Presence Detection 64xx"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Gesture_Recognition/Gesture_and_Presence_Detection_64xx/src/64xx_gesture_and_presence_det.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Multi Gesture And Motion Detection 68xx",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/docs/multi_gesture_and_motion_detection_68xx_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Multi Gesture And Motion Detection 68xx Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/docs/multi_gesture_and_motion_detection_68xx_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Multi Gesture And Motion Detection 68xx User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/docs/multi_gesture_and_motion_detection_68xx_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Multi Gesture 68xx AOP DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_aop_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Multi Gesture 68xx AOP MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_aop_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Multi Gesture 68xx ODS DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_ods_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Multi Gesture 68xx ODS MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Gesture Recognition",
+            "Multi Gesture And Motion Detection 68xx"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Gesture_Recognition/Multi_Gesture_and_Motion_Detection_68xx/src/multi_gesture_68xx_ods_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Level Sensing",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Level_Sensing/docs/high_accuracy_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "High Accuracy Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Level_Sensing/docs/high_accuracy_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "High Accuracy User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Level_Sensing/docs/high_accuracy_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "High Accuracy 14xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/14xx/high_accuracy_14xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "High Accuracy 16xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/16xx/radarDemo/chains/RadarReceiverHighAcc_mmSDK/mmw_HighAccDemo/dss/high_accuracy_16xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "High Accuracy 16xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/16xx/radarDemo/chains/RadarReceiverHighAcc_mmSDK/mmw_HighAccDemo/mss/high_accuracy_16xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "High Accuracy 64xx",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/6443/high_accuracy_64xx.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "High Accuracy 68xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/68xx/high_accuracy_68xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "High Accuracy 68xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Level Sensing"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Level_Sensing/src/68xx/high_accuracy_68xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Long Range People Detection",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Long_Range_People_Detection/long_range_people_detection_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "64xx Long Range People Det",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/docs/6443_long_range_people_detection_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "6443 Long Range People Detection Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "64xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/docs/6443_long_range_people_detection_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "6443 Long Range People Detection User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "64xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/docs/6443_long_range_people_detection_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Beamforming In Lrpd",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "64xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/docs/Beamforming_in_LRPD.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Pplcount Customization Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "64xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/docs/pplcount_customization_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "64xx Long Range People Det",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "64xx Long Range People Det"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Long_Range_People_Detection/64xx_long_range_people_det/src/64xx_long_range_people_det.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Long Range People Det",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/docs/6843_long_range_people_detection_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "6843 Long Range People Detection Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/docs/6843_long_range_people_detection_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "6843 Long Range People Detection User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/docs/6843_long_range_people_detection_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Beamforming In Lrpd",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/docs/Beamforming_in_LRPD.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Pplcount Customization Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/docs/pplcount_customization_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Long Range People Det DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Long Range People Det MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Long Range People Detection",
+            "68xx Long Range People Det"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Long_Range_People_Detection/68xx_long_range_people_det/src/68xx_long_range_people_det_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Out Of Box Demo",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Out_Of_Box_Demo/docs/Out_Of_Box_Demo_User_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Out Of Box Demo Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Out_Of_Box_Demo/docs/Out_Of_Box_Demo_Release_Notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Out Of Box Demo User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Out_Of_Box_Demo/docs/Out_Of_Box_Demo_User_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Understanding OOB UART Data",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Out_Of_Box_Demo/docs/understanding_oob_uart_data.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Out Of Box 14xx",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr14xx/out_of_box_14xx.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 16xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 16xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr16xx/out_of_box_16xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 18xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 18xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr18xx/out_of_box_18xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 6443",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr6443/out_of_box_6443.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 68xx AOP",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr6843AOP/out_of_box_68xx_aop.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 68xx ISK DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 68xx ISK MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr6843ISK/out_of_box_68xx_isk_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Out Of Box 68xx ODS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Out Of Box Demo"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Out_Of_Box_Demo/src/xwr6843ODS/out_of_box_68xx_ods.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.outofbox"
+        ]
+    },
+    {
+        "name": "Parking Garage Sensor",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Parking_Garage_Sensor/docs/parking_garage_sensor_68xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Parking Garage Sensor 68xx Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Parking_Garage_Sensor/docs/parking_garage_sensor_68xx_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Parking Garage Sensor 68xx Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Parking_Garage_Sensor/docs/parking_garage_sensor_68xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Static Detection CLI Commands",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Parking_Garage_Sensor/docs/static_detection_cli_commands.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Gui Setup Readme",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Parking_Garage_Sensor/gui/parkingSetup/GUI_Setup_Readme.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Parking Garage Sensor DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Parking Garage Sensor MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Parking Garage Sensor"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Parking_Garage_Sensor/src/xwr68xx/68xx_parking_garage_sensor_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "People Counting",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/people_counting_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "3D People Counting",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/3D_People_Counting/docs/3d_people_counting_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "3D People Counting Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "3D People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/3D_People_Counting/docs/3d_people_counting_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "3D People Counting User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "3D People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/3D_People_Counting/docs/3d_people_counting_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx 3D People Count DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "3D People Counting"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx 3D People Count MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "3D People Counting"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/3D_People_Counting/src/68xx/68xx_3D_people_count_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "3D People Counting Demo Implementation Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/docs/3D_people_counting_demo_implementation_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "3D People Counting Detection Layer Tuning Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/docs/3D_people_counting_detection_layer_tuning_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "3D People Counting Tracker Layer Tuning Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/docs/3D_people_counting_tracker_layer_tuning_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Tracking Radar Targets With Multiple Reflection Points",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/docs/Tracking_radar_targets_with_multiple_reflection_points.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Overhead 3D People Counting",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/overhead_3d_people_counting/docs/overhead_3d_people_counting_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Overhead 3D People Counting Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Overhead 3D People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/overhead_3d_people_counting/docs/overhead_3d_people_counting_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Overhead 3D People Counting User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Overhead 3D People Counting"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/overhead_3d_people_counting/docs/overhead_3d_people_counting_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Overhead 3D People Count DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Overhead 3D People Counting"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Overhead 3D People Count MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Overhead 3D People Counting"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/overhead_3d_people_counting/src/68xx/68xx_overhead_3d_people_count_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Sense And Direct HVAC Control",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/Sense_and_Direct_HVAC_Control_68xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx Algorithm Overview",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/sense_and_direct_68xx_algorithm_overview.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx Chirp Parameters",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/sense_and_direct_68xx_chirp_parameters.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx Data Output Format",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/sense_and_direct_68xx_data_output_format.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/sense_and_direct_68xx_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Sense And Direct HVAC Control 68xx Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/docs/Sense_and_Direct_HVAC_Control_68xx_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Sense And Direct 18xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Sense And Direct 18xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_18xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Sense And Direct 68xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/src/sense_and_direct_68xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Tracking Radar Targets With Multiple Reflection Points",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Sense And Direct HVAC Control"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/Sense_and_Direct_HVAC_Control/src/mss/gtrack/docs/Tracking radar targets with multiple reflection points.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Visualizer",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/visualizer/docs/people_counting_visualizer_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "People Counting Visualizer Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Visualizer"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/visualizer/docs/people_counting_visualizer_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "People Counting Visualizer User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Visualizer"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/visualizer/docs/people_counting_visualizer_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Wifi Data Transmission",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/People_Counting/WiFi_Data_Transmission/docs/3d_people_counting_with_wifi_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "3D People Counting With Wifi User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "People Counting",
+            "Wifi Data Transmission"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/People_Counting/WiFi_Data_Transmission/docs/3d_people_counting_with_wifi_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Robotics",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Robotics/robotics_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "ROS Setup For Autonomous mmWave MMW",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/autonomous_robotics_ros/docs/common/ROS Setup for Autonomous mmWave.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Safety Bubble With ROS For mmWave MMW Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/autonomous_robotics_ros/docs/safety_bubble/Safety_Bubble_with_ROS_for_mmWave_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Safety Bubble With ROS For mmWave MMW User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/autonomous_robotics_ros/docs/safety_bubble/Safety_Bubble_with_ROS_for_mmWave_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Autonomous Robotics With ROS For mmWave MMW Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/autonomous_robotics_ros/docs/sense_and_avoid/Autonomous_Robotics_with_ROS_for_mmWave_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Autonomous Robotics With ROS For mmWave MMW User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/autonomous_robotics_ros/docs/sense_and_avoid/Autonomous_Robotics_with_ROS_for_mmWave_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "ROS Driver",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Robotics/ros_driver/docs/TI_mmWave_ROS_Driver_Users_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Ti mmWave MMW ROS Driver Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics",
+            "ROS Driver"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/ros_driver/docs/TI_mmWave_ROS_Driver_Release_Notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Ti mmWave MMW ROS Driver Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Robotics",
+            "ROS Driver"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Robotics/ros_driver/docs/TI_mmWave_ROS_Driver_Users_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Traffic Monitoring",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Traffic_Monitoring/docs/traffic_monitoring_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Traffic Monitoring Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Traffic_Monitoring/docs/traffic_monitoring_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Traffic Monitoring Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Traffic_Monitoring/docs/traffic_monitoring_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "18xx Traffic Monitoring DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "18xx Traffic Monitoring MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Traffic_Monitoring/src/xwr18xx/18xx_traffic_monitoring_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Traffic Monitoring DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "68xx Traffic Monitoring MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Traffic Monitoring"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Traffic_Monitoring/src/xwr68xx/68xx_traffic_monitoring_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Vital Signs",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Vital_Signs/vitalSigns_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "14xx Vital Signs",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/docs/Vital_Signs_xwr1443_Users_Guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Vital Signs 14xx Support Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/docs/vital_signs_14xx_Support_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs Xwr1443 Developers Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/docs/Vital_Signs_xwr1443_Developers_Guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs Xwr1443 Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/docs/Vital_Signs_xwr1443_Release_Notes.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs Xwr1443 Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/docs/Vital_Signs_xwr1443_Users_Guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs Lab Gui Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/gui/Vital_Signs_Lab_GUI_Release_Notes.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vitalsigns Lab",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "14xx Vital Signs"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Vital_Signs/14xx_vital_signs/pjt/vitalSigns_lab.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "3D People Counting With Vital Signs",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Vital_Signs/3D_People_Counting_with_Vital_Signs/docs/3d_people_counting_with_vital_signs_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "3D People Counting With Vital Signs Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "3D People Counting With Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/3D_People_Counting_with_Vital_Signs/docs/3d_people_counting_with_vital_signs_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "3D People Counting With Vital Signs User Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "3D People Counting With Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/3D_People_Counting_with_Vital_Signs/docs/3d_people_counting_with_vital_signs_user_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "68xx Vital Signs",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs"
+        ],
+        "resourceType": "categoryInfo",
+        "resourceClass": [
+            "document"
+        ],
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/docs/vital_signs_68xx_Users_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ]
+    },
+    {
+        "name": "Vital Signs 68xx Release Notes",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "68xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/docs/vital_signs_68xx_Release_Notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs 68xx Support Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "68xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/docs/vital_signs_68xx_Support_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs 68xx Users Guide",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "68xx Vital Signs"
+        ],
+        "resourceType": "file",
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/docs/vital_signs_68xx_Users_Guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Vital Signs 68xx DSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "68xx Vital Signs"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/src/vital_signs_68xx_dss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    },
+    {
+        "name": "Vital Signs 68xx MSS",
+        "mainCategories": [
+            [
+                "Labs"
+            ]
+        ],
+        "subCategories": [
+            "Vital Signs",
+            "68xx Vital Signs"
+        ],
+        "resourceType": "project.ccs",
+        "location": "../../labs/Vital_Signs/68xx_vital_signs/src/vital_signs_68xx_mss.projectspec",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "compiler": [
+            "ccs"
+        ],
+        "resourceClass": [
+            "example"
+        ],
+        "resourceSubClass": [
+            "example.general"
+        ]
+    }
+]

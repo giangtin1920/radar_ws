@@ -1,0 +1,19 @@
+[
+    {
+        "files": [
+            "+mss/mss_main.c -> mss_main.c",
+            "+mss/mss_mmw.cfg -> mss_mmw.cfg",
+            "+mss/mss_mmw.h -> mss_mmw.h",
+            "+mss/cli.c -> cli.c",
+            "+mss/gtrackAlloc.c -> gtrackAlloc.c",
+            "+mss/gtrackLog.c -> gtrackLog.c",
+            "+mss/task_app.c -> task_app.c",
+            "+mss/task_mbox.c -> task_mbox.c",
+            "+mss/swpform.h -> swpform.h",
+            "+mss/gtrack_filter.c -> gtrack_filter.c",
+            "+mss/gtrack_filter.h -> gtrack_filter.h",
+            "+mss/r4f_linker.cmd -> r4f_linker.cmd",
+            "+mss/mss_mmw_linker.cmd -> mss_mmw_linker.cmd"
+        ]
+    }
+]

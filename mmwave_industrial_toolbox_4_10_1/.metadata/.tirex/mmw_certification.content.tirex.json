@@ -1,0 +1,596 @@
+[
+    {
+        "name": "Certification Landing",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../certification/certification_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "En 301 091 Test Report",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "Iwr1843boost",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR1843BOOST/RED_Certification_Collateral/en_301_091_test_report.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "En 302 264 Test Report",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "Iwr1843boost",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR1843BOOST/RED_Certification_Collateral/en_302_264_test_report.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Radio Equipment Directive Test Plan",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "Iwr1843boost",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR1843BOOST/RED_Certification_Collateral/radio_equipment_directive_test_plan.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Rf Exposure Report",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "Iwr1843boost",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR1843BOOST/RED_Certification_Collateral/rf_exposure_report.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "FCC 47 Cfr Part 15 Subpart B",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "FCC Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/FCC_Certification_Collateral/fcc_47_cfr_part 15_subpart_b.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "FCC 47 Cfr Part 15 255 Subpart C",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "FCC Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/FCC_Certification_Collateral/fcc_47_cfr_part_15_255_subpart_c.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Mpe Sar Exemption",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "FCC Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/FCC_Certification_Collateral/mpe_sar_exemption.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-tp1v2 Radio Equipment Directive Test Plan",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/RED certification collateral/12511671-TP1V2 Radio Equipment Directive Test Plan.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "393152 - 2trfwl (mpe En62311)",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/RED certification collateral/393152 - 2TRFWL (MPE EN62311).pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "393152 Trfsaf Iec62368 1b (full)",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/RED certification collateral/393152 TRFSAF IEC62368_1B (FULL).pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "393152- 1r1trfwl (etsi En 305 550)",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/RED certification collateral/393152- 1R1TRFWL (ETSI EN 305 550).pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "393152trfemc (301 489-1 3)",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "AOP EVM",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843AOPEVM/RED certification collateral/393152TRFEMC (301 489-1_3).pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "FCC 47 Cfr Part 15 255 Subpart C",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "FCC Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/FCC_Certification_Collateral/fcc_47_cfr_part_15_255_subpart_c.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Mpe Sar Exemption",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "FCC Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/FCC_Certification_Collateral/mpe_sar_exemption.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-e1v6 En305 550 V2.1.0 Test Report Iwr6843",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/RED certification collateral/12511671-E1V6 EN305 550 v2.1.0 Test Report IWR6843.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-e2v5 En 62311 Rf Exposure Report Iwr6843",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/RED certification collateral/12511671-E2V5 EN 62311 RF Exposure Report IWR6843.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-e3v6 Emc Test Report ISK",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/RED certification collateral/12511671-E3V6 EMC Test Report IWR6843ISK.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-tp1v1 Radio Equipment Directive Test Plan",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/RED certification collateral/12511671-TP1V1 Radio Equipment Directive Test Plan.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "E508514-a6001-informative-2-reissue",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK/RED certification collateral/E508514-A6001-Informative-2-Reissue.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12511671-tp1v2 Radio Equipment Directive Test Plan",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ODS ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK-ODS/RED certification collateral/12511671-TP1V2 Radio Equipment Directive Test Plan.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12927418-e1v3 Emc Test Report ODS ISK",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ODS ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK-ODS/RED certification collateral/12927418-E1V3 EMC Test Report IWR6843ISK-ODS.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12927418-e4v4 En305 550 V2.1.0 Test Report ODS ISK",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ODS ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK-ODS/RED certification collateral/12927418-E4V4 EN305 550 v2.1.0 Test Report IWR6843ISK-ODS.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "12927418-e5v5 En 62311 Rf Exposure Report ODS ISK",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ODS ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK-ODS/RED certification collateral/12927418-E5V5 EN 62311 RF Exposure Report IWR6843ISK-ODS.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "E508514-a6001-informative-2-reissue",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "ODS ISK",
+            "RED Certification Collateral"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/IWR6843ISK-ODS/RED certification collateral/E508514-A6001-Informative-2-Reissue.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Rtrim Api Users Guide",
+        "mainCategories": [
+            [
+                "Certification"
+            ]
+        ],
+        "subCategories": [
+            "Rtrim Modification Guide",
+            "Docs"
+        ],
+        "resourceType": "file",
+        "location": "../../certification/RTRIM_Modification_Guide/docs/rtrim_api_users_guide.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]

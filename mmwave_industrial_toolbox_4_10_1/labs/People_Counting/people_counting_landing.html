@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>People Counting Labs</title>
+</head>
+
+<!-- START PRE -->
+<link rel="stylesheet" href="../../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css"/>
+<link rel="stylesheet" href="../../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css"/>
+<link rel="stylesheet" href="../../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css"/>
+<link rel="stylesheet" href="../../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css"/>
+<link rel="stylesheet" href="../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.css"/>
+<link rel="stylesheet" href="../../.metadata/.html/styles/link.css"/>
+<!-- END PRE -->
+
+<xmp style="display:none;" class="col-xs-6">
+
+
+# Overview
+    The labs within this directory all leverage the GTRACK algorithm to localize
+    people and track their movement across a scene.
+
+
+# People Counting Labs Directory
+    The table below highlights the key features and differences in the various people
+    counting labs. Refer to the description and supported platforms to select the
+    appropriate demo for an application use case.
+
+
+    | Lab | IWR6843ISK | IWR6843ISK-ODS | IWR6843AOP | IWR6843L | Description |
+    |-----|-----------|---------------|---------------|---------------|
+    | [Sense and Direct HVAC Control](Sense_and_Direct_HVAC_Control/docs/Sense_and_Direct_HVAC_Control_68xx_users_guide.html) | <p>&#10004;</p> |  |  | <p>&#10004;</p> | -2D people counting and tracking</br> -Classify moving objects as human or non-human 
+    | [People Counting](3D_People_Counting\docs\3d_people_counting_user_guide.html) | <p>&#10004;</p> | <p>&#10004;</p> | <p>&#10004;</p> | <p>&#10004;</p> |  -3D people counting and tracking </br> -For side wall mounted applications </br> -Includes static track retention
+    | [Overhead People Counting](overhead_3d_people_counting\docs\overhead_3d_people_counting_user_guide.html)|  | <p>&#10004;</p> | <p>&#10004;</p> | |  -Overhead 3D people counting and tracking </br> -For ceiling/overhead mounted applications
+
+
+# Additional Applications
+
+    | Application | Description | Support Experiment Details | Supported EVMs |
+    |-----|-----------|---------------|---------------|
+    | Fall Detection | The 3D people counting can be combined with additional logic to detect rapid changes in target height and determine fall events. | [Elderly Care - Fall Detection using IWR6843](../../experiments/Elderly+Care+-+Fall+Detection+using+IWR6843.html)| ISK, ODS, AOP, L |
+    | Building Occupancy Detection | Basic overhead tracking features can be enhanced with additional logic to determine a running total of entrances and exits through a doorway, hallway, or other region. | [Enhanced Building Occupancy Detection](../../experiments/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP.html) | ODS, AOP |
+    | People Counting with Wifi | Combines 3D People Counting with a TI Wifi device in order to transmit data to a larger network. | [WiFi Data Transmission](WiFi_Data_Transmission/docs/3d_people_counting_with_wifi_user_guide.html)| ISK, ODS, AOP, L|
+
+
+</xmp>
+
+<link rel="stylesheet" href="../../.metadata/.html/scripts/highlight/styles/zenburn.css"/>
+<script src="../../.metadata/.html/scripts/strapdown/vendor/jquery-1.11.2.min.js"></script>
+<script src="../../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+<script src="../../.metadata/.html/scripts/highlight/highlight.pack.js"></script>
+<script src="../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.js"></script>
+</html>

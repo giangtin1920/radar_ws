@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>3D People Counting plus Vital Signs Demo Release Notes</title>
+</head>
+
+<!-- START PRE -->
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.css"/>
+<link rel="stylesheet" href="../../../../.metadata/.html/styles/link.css"/>
+<!-- END PRE -->
+
+<xmp style="display:none;" class="col-xs-6">
+
+
+Version 1.0.0
+=============
+
+Overview
+========
+
+This lab demonstrates the use of TI mmWave sensors to track and count people using the IWR6843AOPEVM sensor module  Detection and tracking algorithms run onboard the IWR6843 mmWave sensor and are used to localize people and track their movement. The tracking and localization is used to extract the data needed to process heart rate and breath rate measurements for 1 person.  The lab provides a binary image to demonstrate the functionality and runs on the TI mmWave sensor IWR6843.
+
+Features
+========
+
+The following features are supported:
+* Supports IWR6843AOP antenna module (ES2.0, Rev F or later).
+* GUI displays point cloud and tracking information, plus vital sign measurements and waveforms
+* Supports mmWave SDK 3.5
+
+New and Updated Features
+========================
+
+This is the first release.
+
+Resolved Incident Reports
+=========================
+
+The following are Incident Reports resolved in this release:
+* N/A
+
+Known Issues
+============
+
+The following are Known Issues in this release:
+* Device must be restarted for reconfiguration.
+* Static Tracking within 1 meter of the device can be obscured by false static detections.
+* High speed targets may not be detected.
+
+Work Arounds for Major Known Issues
+===================================
+
+The following are workarounds for each known issue with a major severity that exists in this release:
+* Ensure the staticBoundaryBox argument for NearY is 1 or greater.
+
+Limitations
+=========================
+
+The following is a list of known limitations for this release that were known at the time of release:
+* N/A
+
+</xmp>
+
+<link rel="stylesheet" href="../../../../.metadata/.html/scripts/highlight/styles/zenburn.css"/>
+<script src="../../../../.metadata/.html/scripts/strapdown/vendor/jquery-1.11.2.min.js"></script>
+<script src="../../../../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+<script src="../../../../.metadata/.html/scripts/highlight/highlight.pack.js"></script>
+<script src="../../../../.metadata/.html/scripts/strapdown/v/0.2/strapdown.js"></script>
+<script src="../../../../.metadata/.html/scripts/toolbox.js"></script>
+<script src="../../../../.metadata/.html/scripts/toolbox_fixes.js"></script>
+</html>

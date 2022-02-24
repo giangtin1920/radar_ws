@@ -1,0 +1,12 @@
+param,value1,value2,value3,value4,Description
+constantFrameCountThresh,5,,,,number of frames in staticPtCloudHistoryThresh frames a static pt must be active before it is displayed
+staticPtCloudHistoryThresh,50,,,,number of frames to look for constant pts
+numSpots,1,,,,"total number of parking spots in the FOV, include a spotSize for each spot below."
+parkingSpotSize1,-1,3,2,4,"location and size of parking spot. Measured from bottom left corner of spot (in m) [X,Y,width,height]"
+pSpotOccupiedPtsThresh,3,,,,number of static points required inside parking space before it is considered occupied
+pSpotOccupiedHyst,20,,,,number of occupied frames before a parking spot is marked occupied
+snrThresh,20,,,,minimum SNR for static point to be reported
+displayWarningSpot,1,,,,toggle the display of the warning zone in front of the parking spaces
+hWarningSpotSize,-5,2,10,2,"location and size of warning zone. Measured from bottom left corner of spot (in m) [X,Y,width,height]"
+wSpotOccupiedPtsThresh,6,,,,number of static points required inside the warning zone before it is considered occupied
+wSpotOccupiedHyst,5,,,,number of occupied frames before the warning zone is marked occupied

@@ -1,0 +1,16 @@
+[
+    {
+        "files": [
+            "+mss/mss_main.c -> mss/mss_main.c",
+            "+mss/mmw_cli.c -> mss/mmw_cli.c",
+            "+mss/mmw_lvds_stream.c -> mss/mmw_lvds_stream.c",
+            "+mss/mmw_mss.h -> mss/mmw_mss.h",
+            "+include/mmw_config.h -> include/mmw_config.h",
+            "+include/mmw_output.h -> include/mmw_output.h",
+            "+mmw_res.h -> mmw_res.h",
+            "+mss/mmw_mss.cfg -> mss/mmw_mss.cfg",
+            "+mss/mmw_mss_linker.cmd -> mss/mmw_mss_linker.cmd",
+            "+mss/r4f_linker.cmd -> mss/r4f_linker.cmd"
+        ]
+    }
+]

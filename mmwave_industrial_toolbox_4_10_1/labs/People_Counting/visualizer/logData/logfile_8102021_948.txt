@@ -1,0 +1,1353 @@
+Python is  64  bit
+Python version:  sys.version_info(major=3, minor=6, micro=0, releaselevel='final', serial=0)
+Parser type:  3D People Counting
+Connected
+{'startFreq': 60.75, 'numLoops': 64, 'numTx': 3, 'sensorHeight': 3, 'maxRange': 10, 'az_tilt': 0, 'elev_tilt': 0, 'idle': 30.0, 'adcStart': 25.0, 'rampEnd': 59.1, 'slope': 54.71, 'samples': 96.0, 'sampleRate': 2950.0}
+Sensor Height =  3
+-4.0 0.5 -3.0 4.0 6.0 0.0
+Setting Box  0  to visible
+Drew both boxes
+Setting box  1  invisisble
+Sensor Height from cfg =  2.0
+Sensor Height =  2.0
+-4.0 0.5 -2.0 4.0 6.0 1.0
+Drew both boxes
+Setting box  1  invisisble
+b'sensorStop\n'
+b'Ignored: Sensor is already stopped\n'
+b'\rDone\n'
+b'\rmmwDemo:/>flushCfg\n'
+b'Done\n'
+b'\rmmwDemo:/>dfeDataOutputMode 1\n'
+b'Done\n'
+b'\rmmwDemo:/>channelCfg 15 7 0\n'
+b'Done\n'
+b'\rmmwDemo:/>adcCfg 2 1\n'
+b'Done\n'
+b'\rmmwDemo:/>adcbufCfg -1 0 1 1 1\n'
+b'Done\n'
+b'\rmmwDemo:/>lowPower 0 0\n'
+b'Done\n'
+b'\rmmwDemo:/>profileCfg 0 60.75 30.00 25.00 59.10 394758 0 54.71 1   96 2950.00 2 1 36 \n'
+b'Done\n'
+b'\rmmwDemo:/>chirpCfg 0 0 0 0 0 0 0 1\n'
+b'Done\n'
+b'\rmmwDemo:/>chirpCfg 1 1 0 0 0 0 0 2\n'
+b'Done\n'
+b'\rmmwDemo:/>chirpCfg 2 2 0 0 0 0 0 4\n'
+b'Done\n'
+b'\rmmwDemo:/>frameCfg 0 2  96  0 55.00 1 0\n'
+b'Done\n'
+b'\rmmwDemo:/>dynamicRACfarCfg -1 4 4 2 2 8 12 4 8 5.00 8.00 0.40 1 1\n'
+b'Done\n'
+b'\rmmwDemo:/>staticRACfarCfg -1 6 2 2 2 8 8 6 4 8.00 15.00 0.30 0 0\n'
+b'Done\n'
+b'\rmmwDemo:/>dynamicRangeAngleCfg -1 0.75 0.0010 1 0\n'
+b'Done\n'
+b'\rmmwDemo:/>dynamic2DAngleCfg -1 1.5 0.0300 1 0 1 0.30 0.85 8.00\n'
+b'Done\n'
+b'\rmmwDemo:/>staticRangeAngleCfg -1 0 8 8\n'
+b'Done\n'
+b'\rmmwDemo:/>antGeometry0 -1 -1 0 0 -3 -3 -2 -2 -1 -1 0 0\n'
+b'Done\n'
+b'\rmmwDemo:/>antGeometry1 -1 0 -1 0 -3 -2 -3 -2 -3 -2 -3 -2\n'
+b'Done\n'
+b'\rmmwDemo:/>antPhaseRot 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1\n'
+b'Done\n'
+b'\rmmwDemo:/>fovCfg -1 70.0 20.0\n'
+b'Done\n'
+b'\rmmwDemo:/>compRangeBiasAndRxChanPhase 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 \n'
+b'Done\n'
+b'\rmmwDemo:/>staticBoundaryBox -3 3 2 5.5 0 3\n'
+b'Done\n'
+b'\rmmwDemo:/>boundaryBox -4 4 0.5 6 0 3\n'
+b'Done\n'
+b'\rmmwDemo:/>sensorPosition 2 0 15\n'
+b'Done\n'
+b'\rmmwDemo:/>gatingParam 3 2 2 2 4\n'
+b'Done\n'
+b'\rmmwDemo:/>stateParam 3 3 6 500 5 6000\n'
+b'Done\n'
+b'\rmmwDemo:/>allocationParam 40 100 0.1 20 0.5 20\n'
+b'Done\n'
+b'\rmmwDemo:/>maxAcceleration 0.1 0.1 0.1\n'
+b'Done\n'
+b'\rmmwDemo:/>trackingCfg 1 2 800 30 46 96 55\n'
+b'Done\n'
+b'\rmmwDemo:/>presenceBoundaryBox -4 4 0.5 6 0 3\n'
+b'Done\n'
+b'\rmmwDemo:/>sensorStart\n'
+Parsed Points:  32
+Parsed Points:  20
+Parsed Points:  39
+Parsed Points:  51
+Parsed Points:  75
+Parsed Points:  52
+Parsed Points:  59
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  8
+Parsed Points:  14
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  33
+Parsed Points:  21
+Parsed Points:  14
+Parsed Points:  14
+Parsed Points:  44
+Parsed Points:  14
+Parsed Points:  10
+Parsed Points:  27
+Parsed Points:  18
+Parsed Points:  5
+Parsed Points:  13
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  33
+Parsed Points:  5
+Parsed Points:  5
+Parsed Points:  19
+Parsed Points:  10
+Parsed Points:  15
+Parsed Points:  12
+Parsed Points:  4
+Parsed Points:  7
+Parsed Points:  6
+TLV Header Parsing Failure
+Parsed Points:  8
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  10
+Parsed Points:  15
+Parsed Points:  6
+Parsed Points:  10
+Parsed Points:  12
+Parsed Points:  31
+Parsed Points:  13
+Parsed Points:  48
+Parsed Points:  41
+Parsed Points:  23
+Parsed Points:  24
+Parsed Points:  38
+Parsed Points:  46
+Parsed Points:  28
+Parsed Points:  27
+Parsed Points:  31
+Parsed Points:  32
+Parsed Points:  18
+Parsed Points:  32
+Parsed Points:  53
+Parsed Points:  21
+Parsed Points:  33
+Parsed Points:  20
+Parsed Points:  15
+Parsed Points:  27
+Parsed Points:  31
+Parsed Points:  14
+Parsed Points:  36
+Parsed Points:  34
+Parsed Points:  65
+Parsed Points:  49
+Parsed Points:  33
+Parsed Points:  29
+Parsed Points:  16
+Parsed Points:  24
+Parsed Points:  31
+Parsed Points:  34
+Parsed Points:  24
+Parsed Points:  19
+Parsed Points:  41
+Parsed Points:  45
+Parsed Points:  26
+Parsed Points:  28
+Parsed Points:  19
+Parsed Points:  46
+Parsed Points:  29
+Parsed Points:  52
+Parsed Points:  14
+Parsed Points:  33
+Parsed Points:  28
+Parsed Points:  59
+Parsed Points:  43
+Parsed Points:  56
+Parsed Points:  26
+Parsed Points:  38
+Parsed Points:  47
+Parsed Points:  31
+Parsed Points:  11
+Parsed Points:  15
+Parsed Points:  22
+Parsed Points:  16
+Parsed Points:  38
+Parsed Points:  40
+Parsed Points:  21
+Parsed Points:  13
+Parsed Points:  21
+Parsed Points:  31
+Parsed Points:  21
+Parsed Points:  20
+Parsed Points:  37
+Parsed Points:  29
+Parsed Points:  32
+Parsed Points:  29
+Parsed Points:  52
+Parsed Points:  21
+Parsed Points:  62
+Parsed Points:  19
+Parsed Points:  51
+Parsed Points:  21
+Parsed Points:  25
+Parsed Points:  49
+Parsed Points:  35
+Parsed Points:  35
+Parsed Points:  59
+Parsed Points:  51
+Parsed Points:  42
+Parsed Points:  34
+Parsed Points:  29
+Parsed Points:  19
+Parsed Points:  34
+Parsed Points:  28
+Parsed Points:  38
+Parsed Points:  28
+Parsed Points:  71
+Parsed Points:  71
+Parsed Points:  38
+Parsed Points:  59
+Parsed Points:  14
+Parsed Points:  70
+Parsed Points:  56
+Parsed Points:  19
+Parsed Points:  56
+Parsed Points:  64
+Parsed Points:  72
+Parsed Points:  33
+Parsed Points:  47
+Parsed Points:  22
+Parsed Points:  54
+Parsed Points:  75
+Parsed Points:  19
+Parsed Points:  58
+Parsed Points:  41
+Parsed Points:  18
+Parsed Points:  28
+Parsed Points:  16
+Parsed Points:  22
+Parsed Points:  11
+Parsed Points:  22
+Parsed Points:  24
+Parsed Points:  50
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  13
+Parsed Points:  42
+Parsed Points:  40
+Parsed Points:  8
+Parsed Points:  19
+Parsed Points:  9
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  9
+Parsed Points:  10
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  19
+Parsed Points:  10
+Parsed Points:  11
+Parsed Points:  6
+Parsed Points:  2
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  18
+Parsed Points:  8
+Parsed Points:  9
+Parsed Points:  14
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  15
+Parsed Points:  20
+Parsed Points:  19
+Parsed Points:  26
+Parsed Points:  21
+Parsed Points:  33
+Parsed Points:  15
+Parsed Points:  8
+Parsed Points:  50
+Parsed Points:  9
+Parsed Points:  4
+Parsed Points:  8
+Parsed Points:  13
+Parsed Points:  22
+Parsed Points:  14
+Parsed Points:  21
+Parsed Points:  20
+Parsed Points:  20
+Parsed Points:  31
+Parsed Points:  51
+Parsed Points:  53
+Parsed Points:  14
+Parsed Points:  45
+Parsed Points:  16
+Parsed Points:  26
+Parsed Points:  27
+Parsed Points:  70
+Parsed Points:  16
+Parsed Points:  36
+Parsed Points:  21
+Parsed Points:  28
+Parsed Points:  21
+Parsed Points:  59
+Parsed Points:  7
+Parsed Points:  46
+Parsed Points:  26
+Parsed Points:  76
+Parsed Points:  14
+Parsed Points:  35
+Parsed Points:  42
+Parsed Points:  21
+Parsed Points:  15
+Parsed Points:  38
+Parsed Points:  74
+Parsed Points:  46
+Parsed Points:  36
+Parsed Points:  48
+Parsed Points:  85
+Parsed Points:  46
+Parsed Points:  71
+Parsed Points:  26
+Parsed Points:  32
+Parsed Points:  38
+Parsed Points:  59
+Parsed Points:  69
+Parsed Points:  44
+Parsed Points:  92
+Parsed Points:  57
+Parsed Points:  39
+Parsed Points:  22
+Parsed Points:  33
+Parsed Points:  36
+Parsed Points:  54
+Parsed Points:  51
+Parsed Points:  24
+Parsed Points:  31
+Parsed Points:  66
+Parsed Points:  37
+Parsed Points:  61
+Parsed Points:  29
+Parsed Points:  44
+Parsed Points:  27
+Parsed Points:  34
+Parsed Points:  41
+Parsed Points:  49
+Parsed Points:  40
+Parsed Points:  14
+Parsed Points:  22
+Parsed Points:  47
+Parsed Points:  46
+Parsed Points:  31
+Parsed Points:  37
+Parsed Points:  57
+Parsed Points:  99
+Parsed Points:  18
+Parsed Points:  47
+Parsed Points:  41
+Parsed Points:  69
+Parsed Points:  18
+Parsed Points:  19
+Parsed Points:  33
+Parsed Points:  18
+Parsed Points:  39
+Parsed Points:  19
+Parsed Points:  31
+Parsed Points:  12
+Parsed Points:  9
+Parsed Points:  12
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  13
+Parsed Points:  5
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  12
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  8
+Parsed Points:  5
+Parsed Points:  4
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  2
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  1
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  1
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  13
+Parsed Points:  40
+Parsed Points:  51
+Parsed Points:  28
+Parsed Points:  44
+Parsed Points:  52
+Parsed Points:  25
+Parsed Points:  36
+Parsed Points:  65
+Parsed Points:  44
+Parsed Points:  34
+Parsed Points:  57
+Parsed Points:  26
+Parsed Points:  14
+Parsed Points:  32
+Parsed Points:  21
+Parsed Points:  23
+Parsed Points:  35
+Parsed Points:  24
+Parsed Points:  19
+Parsed Points:  33
+Parsed Points:  24
+Parsed Points:  74
+Parsed Points:  38
+Parsed Points:  31
+Parsed Points:  31
+Parsed Points:  48
+Parsed Points:  27
+Parsed Points:  34
+Parsed Points:  39
+Parsed Points:  44
+Parsed Points:  31
+Parsed Points:  30
+Parsed Points:  32
+Parsed Points:  28
+Parsed Points:  30
+Parsed Points:  33
+Parsed Points:  14
+Parsed Points:  10
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  11
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  1
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  7
+Parsed Points:  13
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  11
+Parsed Points:  15
+Parsed Points:  12
+Parsed Points:  11
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  2
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  11
+Parsed Points:  27
+Parsed Points:  8
+Parsed Points:  13
+Parsed Points:  8
+Parsed Points:  15
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  12
+Parsed Points:  5
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  15
+Parsed Points:  11
+Parsed Points:  21
+Parsed Points:  8
+Parsed Points:  27
+Parsed Points:  35
+Parsed Points:  19
+Target TLV parse failed
+TLV Header Parsing Failure
+Parsed Points:  6
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  18
+Parsed Points:  22
+Parsed Points:  35
+Parsed Points:  29
+Parsed Points:  13
+Parsed Points:  23
+Parsed Points:  44
+Parsed Points:  53
+Parsed Points:  27
+Parsed Points:  16
+Parsed Points:  9
+Parsed Points:  56
+Parsed Points:  14
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  33
+Parsed Points:  40
+Parsed Points:  10
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  16
+Parsed Points:  48
+Parsed Points:  37
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  10
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  3
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  3
+Parsed Points:  3
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  22
+Parsed Points:  5
+Parsed Points:  15
+Parsed Points:  29
+Parsed Points:  13
+Parsed Points:  6
+Parsed Points:  35
+Parsed Points:  5
+Parsed Points:  13
+Parsed Points:  10
+Parsed Points:  35
+Parsed Points:  10
+Parsed Points:  12
+Parsed Points:  42
+Parsed Points:  13
+Parsed Points:  50
+Parsed Points:  63
+Parsed Points:  51
+Parsed Points:  43
+Parsed Points:  46
+Parsed Points:  70
+Parsed Points:  57
+Parsed Points:  32
+Parsed Points:  61
+Parsed Points:  52
+Parsed Points:  7
+Parsed Points:  42
+Parsed Points:  17
+Parsed Points:  56
+Parsed Points:  10
+Parsed Points:  86
+Parsed Points:  18
+Parsed Points:  14
+Parsed Points:  28
+Parsed Points:  8
+Parsed Points:  13
+Parsed Points:  13
+Parsed Points:  8
+Parsed Points:  5
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  9
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  24
+Parsed Points:  10
+Parsed Points:  12
+Parsed Points:  13
+Parsed Points:  21
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  26
+Parsed Points:  11
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  8
+Parsed Points:  16
+Parsed Points:  7
+Parsed Points:  9
+Parsed Points:  20
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  5
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  2
+Parsed Points:  3
+Parsed Points:  2
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  9
+Parsed Points:  31
+Parsed Points:  5
+Parsed Points:  13
+Parsed Points:  17
+Parsed Points:  45
+Parsed Points:  21
+Parsed Points:  11
+Parsed Points:  8
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  14
+Parsed Points:  12
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  18
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  1
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  3
+Parsed Points:  5
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  3
+Parsed Points:  1
+Parsed Points:  2
+Parsed Points:  2
+Parsed Points:  3
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  13
+Parsed Points:  37
+Parsed Points:  31
+Parsed Points:  58
+Parsed Points:  24
+Parsed Points:  47
+Parsed Points:  32
+Parsed Points:  21
+Parsed Points:  6
+Parsed Points:  9
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  3
+Parsed Points:  7
+Parsed Points:  10
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  5
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  11
+Parsed Points:  13
+Parsed Points:  32
+Parsed Points:  13
+Parsed Points:  36
+Parsed Points:  27
+Parsed Points:  20
+Parsed Points:  11
+Parsed Points:  12
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  20
+Parsed Points:  10
+Parsed Points:  7
+Parsed Points:  41
+Parsed Points:  6
+Parsed Points:  12
+Parsed Points:  5
+Parsed Points:  4
+Parsed Points:  30
+Parsed Points:  7
+Parsed Points:  23
+Parsed Points:  47
+Parsed Points:  13
+Parsed Points:  31
+Parsed Points:  46
+Parsed Points:  15
+Parsed Points:  5
+Parsed Points:  17
+Parsed Points:  12
+Parsed Points:  32
+Parsed Points:  14
+Parsed Points:  30
+Parsed Points:  51
+Parsed Points:  30
+Parsed Points:  56
+Parsed Points:  7
+Parsed Points:  52
+Parsed Points:  27
+Parsed Points:  8
+Parsed Points:  31
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  16
+Parsed Points:  19
+Parsed Points:  8
+Parsed Points:  13
+Parsed Points:  2
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  35
+Parsed Points:  57
+Parsed Points:  40
+Parsed Points:  27
+Parsed Points:  21
+Parsed Points:  49
+Parsed Points:  38
+Parsed Points:  42
+Parsed Points:  48
+Parsed Points:  21
+Parsed Points:  20
+Parsed Points:  31
+Parsed Points:  17
+Parsed Points:  27
+Parsed Points:  51
+Parsed Points:  41
+Parsed Points:  38
+Parsed Points:  23
+Parsed Points:  17
+Parsed Points:  22
+Parsed Points:  20
+Parsed Points:  57
+Parsed Points:  37
+Parsed Points:  44
+Parsed Points:  41
+Parsed Points:  25
+Parsed Points:  39
+Parsed Points:  18
+Parsed Points:  19
+Parsed Points:  22
+Parsed Points:  19
+Parsed Points:  35
+Parsed Points:  21
+Parsed Points:  20
+Parsed Points:  28
+Parsed Points:  22
+Parsed Points:  14
+Parsed Points:  27
+Parsed Points:  36
+Parsed Points:  50
+Parsed Points:  31
+Parsed Points:  53
+Parsed Points:  32
+Parsed Points:  20
+Parsed Points:  21
+Parsed Points:  39
+Parsed Points:  15
+Parsed Points:  15
+Parsed Points:  26
+Parsed Points:  22
+Parsed Points:  29
+Parsed Points:  13
+Parsed Points:  84
+Parsed Points:  18
+Parsed Points:  10
+Parsed Points:  23
+Parsed Points:  41
+Parsed Points:  37
+Parsed Points:  48
+Parsed Points:  37
+Parsed Points:  24
+Parsed Points:  77
+Parsed Points:  26
+Parsed Points:  33
+Parsed Points:  31
+Parsed Points:  15
+Parsed Points:  9
+Parsed Points:  18
+Parsed Points:  19
+Parsed Points:  33
+Parsed Points:  47
+Parsed Points:  27
+Parsed Points:  46
+Parsed Points:  51
+Parsed Points:  24
+Parsed Points:  9
+Parsed Points:  27
+Parsed Points:  41
+Parsed Points:  25
+Parsed Points:  29
+Parsed Points:  41
+Parsed Points:  33
+Parsed Points:  18
+Parsed Points:  6
+Parsed Points:  18
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  9
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  26
+Parsed Points:  18
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  36
+Parsed Points:  48
+Parsed Points:  18
+Parsed Points:  7
+Parsed Points:  18
+Parsed Points:  11
+Parsed Points:  55
+Parsed Points:  11
+Parsed Points:  15
+Parsed Points:  5
+Parsed Points:  8
+Parsed Points:  26
+Parsed Points:  12
+Parsed Points:  5
+Parsed Points:  10
+Parsed Points:  10
+Parsed Points:  29
+Parsed Points:  23
+Parsed Points:  22
+Parsed Points:  11
+Parsed Points:  8
+Parsed Points:  12
+Parsed Points:  19
+Parsed Points:  9
+Parsed Points:  10
+Parsed Points:  4
+Parsed Points:  7
+Parsed Points:  17
+Parsed Points:  23
+Parsed Points:  39
+Parsed Points:  41
+Parsed Points:  12
+Parsed Points:  5
+Parsed Points:  26
+Parsed Points:  49
+Parsed Points:  34
+Parsed Points:  30
+Parsed Points:  20
+Parsed Points:  7
+Parsed Points:  22
+Parsed Points:  31
+Parsed Points:  48
+Parsed Points:  33
+Parsed Points:  16
+Parsed Points:  9
+Parsed Points:  10
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  23
+Parsed Points:  19
+Parsed Points:  17
+Parsed Points:  20
+Parsed Points:  23
+Parsed Points:  22
+Parsed Points:  12
+Parsed Points:  41
+Parsed Points:  22
+Parsed Points:  14
+Parsed Points:  8
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  21
+Parsed Points:  9
+Parsed Points:  15
+Parsed Points:  33
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  8
+Parsed Points:  5
+Parsed Points:  9
+Parsed Points:  9
+Parsed Points:  18
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  8
+Parsed Points:  11
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  10
+Parsed Points:  44
+Parsed Points:  23
+Parsed Points:  43
+Parsed Points:  42
+Parsed Points:  33
+Parsed Points:  22
+Parsed Points:  21
+Parsed Points:  8
+Parsed Points:  9
+Parsed Points:  13
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  14
+Parsed Points:  46
+Parsed Points:  66
+Parsed Points:  53
+Parsed Points:  55
+Parsed Points:  14
+Parsed Points:  41
+Parsed Points:  25
+Parsed Points:  45
+Parsed Points:  13
+Parsed Points:  5
+Parsed Points:  10
+Parsed Points:  36
+Parsed Points:  39
+Parsed Points:  50
+Parsed Points:  27
+Parsed Points:  19
+Parsed Points:  11
+Parsed Points:  25
+Parsed Points:  32
+Parsed Points:  9
+Parsed Points:  30
+Parsed Points:  25
+Parsed Points:  32
+Parsed Points:  15
+Parsed Points:  48
+Parsed Points:  22
+Parsed Points:  6
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  15
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  13
+Parsed Points:  12
+Parsed Points:  23
+Parsed Points:  7
+Parsed Points:  15
+Parsed Points:  11
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  9
+Parsed Points:  4
+Parsed Points:  10
+Parsed Points:  11
+Parsed Points:  7
+Parsed Points:  10
+Parsed Points:  6
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  5
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  14
+Parsed Points:  14
+Parsed Points:  11
+Parsed Points:  9
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  1
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  4
+Parsed Points:  9
+Parsed Points:  32
+Parsed Points:  8
+Parsed Points:  30
+Parsed Points:  37
+Parsed Points:  10
+Parsed Points:  1
+Parsed Points:  4
+Saved data file  0
+Parsed Points:  31
+Point Cloud TLV Parser Failed
+Parsed Points:  35
+Point Cloud TLV Parser Failed
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  8
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  10
+Parsed Points:  40
+Point Cloud TLV Parser Failed
+Parsed Points:  29
+Point Cloud TLV Parser Failed
+Parsed Points:  48
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  52
+Point Cloud TLV Parser Failed
+Parsed Points:  37
+Point Cloud TLV Parser Failed
+Parsed Points:  39
+Point Cloud TLV Parser Failed
+Parsed Points:  17
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  18
+Point Cloud TLV Parser Failed
+Parsed Points:  75
+Point Cloud TLV Parser Failed
+Parsed Points:  42
+Point Cloud TLV Parser Failed
+Parsed Points:  31
+Point Cloud TLV Parser Failed
+Parsed Points:  12
+Parsed Points:  12
+Parsed Points:  38
+Point Cloud TLV Parser Failed
+Parsed Points:  39
+Point Cloud TLV Parser Failed
+Parsed Points:  30
+Point Cloud TLV Parser Failed
+Parsed Points:  41
+Point Cloud TLV Parser Failed
+Parsed Points:  18
+Point Cloud TLV Parser Failed
+Parsed Points:  48
+Point Cloud TLV Parser Failed
+Parsed Points:  25
+Point Cloud TLV Parser Failed
+Parsed Points:  35
+Point Cloud TLV Parser Failed
+Parsed Points:  17
+Point Cloud TLV Parser Failed
+Parsed Points:  19
+Point Cloud TLV Parser Failed
+Parsed Points:  20
+Point Cloud TLV Parser Failed
+Parsed Points:  30
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  31
+Point Cloud TLV Parser Failed
+Parsed Points:  42
+Point Cloud TLV Parser Failed
+Parsed Points:  29
+Point Cloud TLV Parser Failed
+Parsed Points:  21
+Point Cloud TLV Parser Failed
+Parsed Points:  20
+Point Cloud TLV Parser Failed
+Parsed Points:  45
+Point Cloud TLV Parser Failed
+Parsed Points:  39
+Point Cloud TLV Parser Failed
+Parsed Points:  59
+Point Cloud TLV Parser Failed
+Parsed Points:  83
+Point Cloud TLV Parser Failed
+Parsed Points:  32
+Point Cloud TLV Parser Failed
+Parsed Points:  27
+Point Cloud TLV Parser Failed
+Parsed Points:  44
+Point Cloud TLV Parser Failed
+Parsed Points:  59
+Point Cloud TLV Parser Failed
+Parsed Points:  17
+Point Cloud TLV Parser Failed
+Parsed Points:  47
+Point Cloud TLV Parser Failed
+Parsed Points:  31
+Point Cloud TLV Parser Failed
+Parsed Points:  49
+Point Cloud TLV Parser Failed
+Parsed Points:  74
+Point Cloud TLV Parser Failed
+Parsed Points:  49
+Point Cloud TLV Parser Failed
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  20
+Point Cloud TLV Parser Failed
+Parsed Points:  43
+Point Cloud TLV Parser Failed
+Parsed Points:  24
+Point Cloud TLV Parser Failed
+Parsed Points:  14
+Point Cloud TLV Parser Failed
+Parsed Points:  44
+Point Cloud TLV Parser Failed
+Parsed Points:  19
+Point Cloud TLV Parser Failed
+Parsed Points:  49
+Point Cloud TLV Parser Failed
+Parsed Points:  42
+Point Cloud TLV Parser Failed
+Parsed Points:  24
+Point Cloud TLV Parser Failed
+Parsed Points:  46
+Point Cloud TLV Parser Failed
+Parsed Points:  28
+Point Cloud TLV Parser Failed
+Parsed Points:  25
+Point Cloud TLV Parser Failed
+Parsed Points:  26
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  14
+Point Cloud TLV Parser Failed
+Parsed Points:  29
+Point Cloud TLV Parser Failed
+Parsed Points:  56
+Point Cloud TLV Parser Failed
+Parsed Points:  49
+Point Cloud TLV Parser Failed
+Parsed Points:  5
+Parsed Points:  9
+Parsed Points:  20
+Point Cloud TLV Parser Failed
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  10
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  10
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  11
+Parsed Points:  17
+Point Cloud TLV Parser Failed
+Parsed Points:  6
+Parsed Points:  30
+Point Cloud TLV Parser Failed
+Parsed Points:  8
+Parsed Points:  11
+Parsed Points:  7
+Parsed Points:  7
+Parsed Points:  11
+Parsed Points:  22
+Point Cloud TLV Parser Failed
+Parsed Points:  6
+Parsed Points:  11
+Parsed Points:  6
+Parsed Points:  10
+Parsed Points:  8
+Parsed Points:  6
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  9
+Parsed Points:  19
+Point Cloud TLV Parser Failed
+Parsed Points:  34
+Point Cloud TLV Parser Failed
+Parsed Points:  25
+Point Cloud TLV Parser Failed
+Parsed Points:  7
+Parsed Points:  8
+Parsed Points:  41
+Point Cloud TLV Parser Failed
+Parsed Points:  9
+Parsed Points:  40
+Point Cloud TLV Parser Failed
+Parsed Points:  5
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  52
+Point Cloud TLV Parser Failed
+Parsed Points:  43
+Point Cloud TLV Parser Failed
+Parsed Points:  8
+Parsed Points:  48
+Point Cloud TLV Parser Failed
+Parsed Points:  40
+Point Cloud TLV Parser Failed
+Parsed Points:  11
+Parsed Points:  11
+Parsed Points:  5
+Parsed Points:  7
+Parsed Points:  12
+Parsed Points:  26
+Point Cloud TLV Parser Failed
+Parsed Points:  41
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  43
+Point Cloud TLV Parser Failed
+Parsed Points:  37
+Point Cloud TLV Parser Failed
+Parsed Points:  16
+Point Cloud TLV Parser Failed
+Parsed Points:  9
+Parsed Points:  20
+Point Cloud TLV Parser Failed
+Parsed Points:  33
+Point Cloud TLV Parser Failed
+Parsed Points:  24
+Point Cloud TLV Parser Failed
+Parsed Points:  33
+Point Cloud TLV Parser Failed
+Parsed Points:  1
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  8
+Parsed Points:  9
+Parsed Points:  12
+Parsed Points:  9
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  8
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  4
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  7
+Parsed Points:  10
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  14
+Point Cloud TLV Parser Failed
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  11
+Parsed Points:  9
+Parsed Points:  7
+Parsed Points:  5
+Parsed Points:  9
+Parsed Points:  8
+Parsed Points:  8
+Parsed Points:  7
+Parsed Points:  6
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  3
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  14
+Point Cloud TLV Parser Failed
+Parsed Points:  3
+Parsed Points:  13
+Point Cloud TLV Parser Failed
+Parsed Points:  6
+Parsed Points:  6
+Parsed Points:  2
+Parsed Points:  5
+Parsed Points:  6
+Parsed Points:  5
+Parsed Points:  4
+Parsed Points:  4
+Parsed Points:  6
+Parsed Points:  2
+Parsed Points:  2
+Parsed Points:  4
+Parsed Points:  4

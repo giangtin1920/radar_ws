@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Deprecated Content",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../docs/Deprecated_Content.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Determine Silicon Revision",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "subCategories": [
+            "Hardware Guides"
+        ],
+        "resourceType": "file",
+        "location": "../../docs/hardware_guides/determine_silicon_revision.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "EVM Setup Operational Modes",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "subCategories": [
+            "Hardware Guides"
+        ],
+        "resourceType": "file",
+        "location": "../../docs/hardware_guides/evm_setup_operational_modes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Industrial Toolbox Release Notes",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../docs/industrial_toolbox_release_notes.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "mmWave MMW Industrial Toolbox Manifest",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../docs/mmwave_industrial_toolbox_manifest.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Readme",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../docs/readme.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Using CCS Debug",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "subCategories": [
+            "Software Guides"
+        ],
+        "resourceType": "file",
+        "location": "../../docs/software_guides/using_ccs_debug.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Using Uniflash With mmWave MMW",
+        "mainCategories": [
+            [
+                "Documentation"
+            ]
+        ],
+        "subCategories": [
+            "Software Guides"
+        ],
+        "resourceType": "file",
+        "location": "../../docs/software_guides/using_uniflash_with_mmwave.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]

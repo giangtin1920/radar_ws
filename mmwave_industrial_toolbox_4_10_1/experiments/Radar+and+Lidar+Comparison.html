@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Radar and Lidar Comparison</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="../.metadata/.html/scripts/toolbox.js"></script>
+        <script src="../.metadata/.html/scripts/toolbox_fixes.js"></script>
+        <link rel="stylesheet" href="../.metadata/.html/styles/link.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/ubuntu-regular-woff.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/fonts/glyphicons-halflings-regular.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/united2.min.css">
+        <link rel="stylesheet" href="../.metadata/.html/scripts/strapdown/v/0.2/themes/bootstrap-responsive.min.css">
+        <style>
+            .img-responsive {
+            max-height: 300px;
+            }
+            .btn-primary {
+            margin: 5px;
+            }
+        </style>
+    </head>
+    <body style="">
+        <div class="container">
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <div id="headline" class="navbar-brand">Radar and Lidar Comparison</div>
+                    </div>
+                </div>
+            </nav>
+            <div class="container">
+                <div class="row row-offcanvas row-offcanvas-left">
+                    <div class="col-xs-12 col-sm-9" id="content">
+                        <h1 id="-introduction-"><strong>Introduction</strong></h1>
+                        <p>The objective of this experiment is to demonstrate the strengths that TI's mmWave radar sensor has over a similarly priced lidar sensor. The lidar sensor used in this test has the capability to sense in only two dimensions, meaning that the sensor has no elevation capabilities. Lidar uses infrared wavelengths, so it will pass through translucent objects such as glass. Therefore, lidar will be unable to detect such materials. Lidar is the sensor of choice for most robotic applications and is often developed upon using the opensource Robot Operating System (ROS). This experiment will use ROS to analyze the sensor readings between the two sensors. The radar sensor used in this experiment is the IWR6843ISK. The robot used is the turtlebot 2. Reproducing this experiment requires the user to be familiar with the Industrial Toolbox lab "Autonomous Robotics with ROS for mmWave."</p>
+                        <h1 id="-scene-"><strong>Scene</strong></h1>
+                        <p>The following figure shows the scene to test the two sensors. There are four obstacles that the robot is intended to avoid. They are a small cardboard box, two larger cardboard boxes, and a glass sheet. It is expected of the radar to capture all of these obstacles, while the lidar will miss the short box and the glass sheet.</p>
+                        <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/SceneEdited.PNG" class="img-responsive"></p>
+                        <p>
+                        <center>Figure 1. Robot Scene</center>
+                        </p>
+                        <h1 id="-setup-"><strong>Setup</strong></h1>
+                        <p>The radar and lidar sensors were tested individually. The radar is mounted as shown in Figure 2. Instructions to mount the radar are the same as described in the Industrial Toolbox lab "Autonomous Robotics with ROS for mmWave." To mount the lidar sensor to the turtlebot, a custom mount was designed and 3d printed. The sensor was then attached to the 3D print and bolted to the base of the turtlebot. This is shown in Figure 3.</p>
+                        <table class="table table-striped table-bordered">
+                            <tbody>
+                                <tr>
+                                    <th style="text-align: center;">
+                                        <div class="content-wrapper">
+                                            <p><img style="height:400;" src="./images/Radar+and+Lidar+Comparison/RadarMounted_edited.jpg" class="img-responsive"></p>
+                                            <p>Figure 2. IWR6843ISK mounted to Turtlebot</p>
+                                        </div>
+                                    </th>
+                                    <th>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:400;" src="./images/Radar+and+Lidar+Comparison/LidarMounted_edited.jpg" class="img-responsive"></p>
+                                            <p>                        Figure 3. Lidar mounted to Turtlebot  </p>
+                                        </div>
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h1 id="-results-"><strong>Results</strong></h1>
+                        <p>The following are captures of driving the robot throughout the scene. It can be clearly seen from the radar video that the smaller cardboard box and glass sheet are detected and mapped into the visualizer. However, the lidar sensor does not detect the same objects and causes collisions with those undetected objects. <a href="https://www.youtube.com/watch?v=dTUEZmp49V4">See our video comparison for more information</a></p>
+                        <p><br></p>
+                        <p>To further understand radar performance with each object, the radar was tested with each object: small box, big box, and glass sheet. The following table describes these results. </p>
+                        <table class="table table-striped table-bordered">
+                            <tbody>
+                                <tr>
+                                    <th>Material</th>
+                                    <th>Sensor Setup</th>
+                                    <th>Lidar Result</th>
+                                    <th>Radar Result</th>
+                                </tr>
+                                <tr>
+                                    <td>Small box</td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/SmallSetup.jpg" class="img-responsive"></p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/SmallBox.png" class="img-responsive"></p>
+                                            <p>Because of the height of the box with respect to the lidar sensor, the lidar does not detect the small box. </p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/SmallBoxRadar.png" class="img-responsive"></p>
+                                            <p>Radar is able to detect the small box.</p>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Big Box</td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/BigSetup.jpg" class="img-responsive"></p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/BigBoxLidar.png" class="img-responsive"></p>
+                                            <p>Lidar is able to detect the big box.</p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/BigBoxRadar.png" class="img-responsive"></p>
+                                            <p>Radar is able to detect the big box. </p>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Glass Sheet</td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/AcrylicSetup.jpg" class="img-responsive"></p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/AcrylicLidar.png" class="img-responsive"></p>
+                                            <p>Because light passes through glass, the lidar is not able to detect the glass sheet. </p>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="content-wrapper">
+                                            <p><img style="height:250;" src="./images/Radar+and+Lidar+Comparison/AcrylicRadar.png" class="img-responsive"></p>
+                                            <p>Radar is able to detect the glass sheet. </p>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h1 id="-conclusion-"><strong>Conclusion</strong></h1>
+                        <p>When comparing Texas Instruments' mmWave radar to a similarly priced 2D lidar, the radar has significantly more benefits. The radar is able to detect objects in three dimensions, while this lidar can only detect in two dimensions. The lidar does have a much higher angular resolution of 0.5 degrees compared to the radar's 15 degrees. This lidar has the ability to scan in 360 degrees, but the same can be accomplished with multiple radars. The radar is also able to detect glass and other transparent materials, while this lidar sensor can not. Though not tested here, the radar performance is matched in enviroments where smoke is prevalent and visibility is low.</p>
+                        <p><br></p>
+                        <p><br></p>
+                    </div>
+                    <div class="col-xs-4 col-sm-2 sidebar-offcanvas bs-docs-sidebar hidden-print" id="sidebar-overview">
+                        <ul class="nav nav-stacked fixed" id="sidebar">
+                            <li><a href="#-introduction-">Introduction</a></li>
+                            <li><a href="#-scene-">Scene</a></li>
+                            <li><a href="#-setup-">Setup</a></li>
+                            <li><a href="#-results-">Results</a></li>
+                            <li><a href="#-conclusion-">Conclusion</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="../.metadata/.html/scripts/strapdown/vendor/bootstrap.min.js"></script>
+        <div class="modal" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="vertical-alignment-helper">
+                <div class="modal-dialog vertical-align-center">
+                    <div class="modal-dialog">
+                        <div class="modal-content" style="margin-left: auto;margin-right: auto;">
+                            <div class="modal-body">
+                                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> <img src="" class="imagepreview"> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

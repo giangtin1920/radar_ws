@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Antennas Landing",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/antennas_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr1443 Boost",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr1443 Boost"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr1443_boost/iwr1443_boost.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr1642 Boost",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr1642 Boost"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr1642_boost/iwr1642_boost.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr1843 Boost",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr1843 Boost"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr1843_boost/iwr1843_boost.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "AOP",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr6843 AOP"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr6843_aop/IWR6843aop.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr6843 Ha",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr6843 Ha"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr6843_ha/iwr6843_ha.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr6843 ISK",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr6843 ISK"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr6843_isk/iwr6843_isk.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr6843 L",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr6843 L"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr6843_l/iwr6843_l.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Iwr6843 ODS",
+        "mainCategories": [
+            [
+                "Antenna Database"
+            ]
+        ],
+        "subCategories": [
+            "Ant Rad Patterns",
+            "Iwr6843 ODS"
+        ],
+        "resourceType": "file",
+        "location": "../../antennas/ant_rad_patterns/iwr6843_ods/iwr6843_ods.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]

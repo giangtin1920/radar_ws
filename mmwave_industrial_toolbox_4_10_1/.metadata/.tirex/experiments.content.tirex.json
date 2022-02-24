@@ -1,0 +1,287 @@
+[
+    {
+        "name": "CLI Detection Using mmWave MMW",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Cliff+Detection+using+mmWave.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Detecting Approaching Objects For Elevator Doors",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Detecting+Approaching+Objects+for+Elevator+Doors.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Detecting Gesture Motions Through Smoke Or Glass",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Detecting+Gesture+Motions+through+Smoke+or+Glass.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Detecting Humans At 50 Meters And Filtering False Detections With Gtrack Software",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Detecting+Humans+at+50+Meters+and+Filtering+False+Detections+with+GTrack+Software.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Detecting UART Using mmWave MMW",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Detecting+Quarters+Using+mmWave.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Detecting Walls Of Different Materials",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Detecting+Walls+of+Different+Materials.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Elderly Care - Fall Detection Using Iwr6843",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Elderly+Care+-+Fall+Detection+using+IWR6843.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Enhanced Building Occupancy Detection With AOP",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Enhanced+Building+Occupancy+Detection+with+IWR6843AOP.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Experiments Landing",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/experiments_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Measuring Object Height With mmWave MMW Radar",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Measuring+Object+Height+with+mmWave+Radar.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "People Counting Through Plastic And Drywall And Wood",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/People+Counting+through+Plastic+and+Drywall+and+Wood.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Radar And Lidar Comparison",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Radar+and+Lidar+Comparison.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Response Of Radar To Rain",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Response+of+Radar+to+Rain.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Very Fine Motion Detection Vs PIR",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Very+Fine+Motion+Detection+vs+PIR.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Zone Occupancy Detection With mmWave MMW Radar",
+        "mainCategories": [
+            [
+                "Experiments"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../experiments/Zone+Occupancy+Detection+with+mmWave+Radar.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]

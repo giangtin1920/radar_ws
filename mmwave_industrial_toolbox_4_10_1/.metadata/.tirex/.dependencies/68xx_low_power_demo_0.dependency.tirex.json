@@ -1,0 +1,11 @@
+[
+    {
+        "files": [
+            "+main.c -> main.c",
+            "+mmw_cli.c -> mmw_cli.c",
+            "+lib/mmwavelink/libmmwavelink_xwr68xx.aer4f -> lib/libmmwavelink_xwr68xx.aer4f",
+            "+lib/libsleep/libsleep_xwr68xx.aer4f -> lib/libsleep_xwr68xx.aer4f",
+            "+lib/libsleep/libsleep_xwr68xx.h -> lib/libsleep_xwr68xx.h"
+        ]
+    }
+]

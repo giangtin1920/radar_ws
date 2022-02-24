@@ -1,0 +1,8 @@
+[
+    {
+        "files": [
+            "+cli_mmwave.c -> cli_mmwave.c",
+            "+hcc_cli.c -> hcc_cli.c"
+        ]
+    }
+]

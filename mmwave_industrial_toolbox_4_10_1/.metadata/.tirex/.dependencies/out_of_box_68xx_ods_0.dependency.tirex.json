@@ -1,0 +1,8 @@
+[
+    {
+        "files": [
+            "+main.c -> mss/main.c",
+            "+antenna_geometry.c -> board/antenna_geometry.c"
+        ]
+    }
+]

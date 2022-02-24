@@ -1,0 +1,25 @@
+[
+    {
+        "arraymacro":  "mmw_devices",
+        "value": [
+            "IWR1443", "AWR1443",
+            "IWR1642", "AWR1642",
+            "IWR1843", "AWR1843",
+            "IWR6843", "AWR6843",
+            "IWR6843AOP", "AWR6843AOP"
+        ],
+        "comment": "All mmWave Devices supported by the mmWave Toolboxes"
+    },
+    {
+        "arraymacro":  "mmw_devtools",
+        "value": [
+            "IWR1443BOOST", "AWR1443BOOST",
+            "IWR1642BOOST", "AWR1642BOOST",
+            "IWR1843BOOST", "AWR1843BOOST",
+            "IWR6843ISK", "AWR6843ISK",
+            "IWR6843ODS", "AWR6843ODS",
+            "IWR6843AOPEVM", "AWR6843AOPEVM"
+        ],
+        "comment":     "All mmWave Dev Tools supported by the mmWave Toolboxes"
+    }
+]

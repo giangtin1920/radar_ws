@@ -1,0 +1,22 @@
+[
+    {
+        "files": [
+            "+mss/mss_main.c -> mss/mss_main.c",
+            "+mss/pcount3D_cli.c -> mss/pcount3D_cli.c",
+            "+mss/pcount3D_mss.h -> mss/pcount3D_mss.h",
+            "+mss/pcount3D_mss.cfg -> mss/pcount3D_mss.cfg",
+            "+mss/tracker_utils.c -> mss/tracker_utils.c",
+            "+mss/tracker_utils.h -> mss/tracker_utils.h",
+            "+mss/tracker_output.h -> mss/tracker_output.h",
+            "+mss/r4f_linker.cmd -> mss/r4f_linker.cmd",
+            "+mss/pcount3D_mss_linker.cmd -> mss/pcount3D_mss_linker.cmd",
+            "+common/pcount3D_config.h -> mss/pcount3D_config.h",
+            "+common/pcount3D_output.h -> mss/pcount3D_output.h",
+            "+common/pcount3D_hwres.h -> mss/pcount3D_hwres.h",
+            "+common/mmwdemo_adcconfig.c -> common/mmwdemo_adcconfig.c",
+            "+common/mmwdemo_adcconfig.h -> common/mmwdemo_adcconfig.h",
+            "+common/mmwdemo_rfparser.c -> common/mmwdemo_rfparser.c",
+            "+common/mmwdemo_rfparser.h -> common/mmwdemo_rfparser.h"
+        ]
+    }
+]

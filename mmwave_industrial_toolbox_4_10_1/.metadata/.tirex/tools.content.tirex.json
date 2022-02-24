@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Radar Memory Compression Model Iwr6843 Users Guide",
+        "mainCategories": [
+            [
+                "Tools"
+            ]
+        ],
+        "subCategories": [
+            "Memory Compression"
+        ],
+        "resourceType": "file",
+        "location": "../../tools/memory_compression/radar_memory_Compression_Model_iwr6843_users_guide.pdf",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Remote Stream Tool",
+        "mainCategories": [
+            [
+                "Tools"
+            ]
+        ],
+        "subCategories": [
+            "Remote Access",
+            "Docs"
+        ],
+        "resourceType": "file",
+        "location": "../../tools/remote_access/docs/Remote_Stream_tool.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    },
+    {
+        "name": "Tools Landing",
+        "mainCategories": [
+            [
+                "Tools"
+            ]
+        ],
+        "resourceType": "file",
+        "location": "../../tools/tools_landing.html",
+        "devices": [
+            "$(mmw_devices)"
+        ],
+        "devtools": [
+            "$(mmw_devtools)"
+        ],
+        "resourceClass": [
+            "document"
+        ]
+    }
+]
