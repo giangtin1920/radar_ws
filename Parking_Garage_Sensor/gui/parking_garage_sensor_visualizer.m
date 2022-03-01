@@ -540,7 +540,7 @@ while (RUN_VIZ)
                        [hProjection(tracksProjectedInCriticalZone).Color] = deal([1 0 0]);
                    end
 
-                   else
+               else 
                    delete(hProjection);
                    hProjection = [];
                end
