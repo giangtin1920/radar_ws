@@ -1,3 +1,0 @@
-This lab uses an online visualizer. Use the visualizer specified in the user's guide.
-
-https://dev.ti.com/gallery/info/mmwave/mmWave_Demo_Visualizer//
