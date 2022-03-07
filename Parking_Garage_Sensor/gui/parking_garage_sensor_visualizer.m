@@ -10,7 +10,7 @@ if(SETUP_VIA_GUI)
     
 else 
     % Manual/programmatic entry
-    REAL_TIME_MODE = 0; %1 for from device 0 for playback from dat file
+    REAL_TIME_MODE = 1; %1 for from device 0 for playback from dat file
     ENABLE_RECORD = 0;
     datFile.path = '';
     datFile.name = 'parkingGarage.txt';
