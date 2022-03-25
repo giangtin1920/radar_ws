@@ -1,4 +1,5 @@
 # radar_ws
 
-code
-edit
+Folder documment anf references.
+
+This is not a workspace in ROS.
