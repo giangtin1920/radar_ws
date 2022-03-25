@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/radarScanBG">
+        <file>RadarScanBG.png</file>
+    </qresource>
+    <qresource prefix="/car">
+        <file>car0.png</file>
+        <file>carAccidence.png</file>
+        <file>carNone.png</file>
+        <file>carNormal.png</file>
+        <file>carWarning.png</file>
+    </qresource>
+</RCC>

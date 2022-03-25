@@ -1,0 +1,2 @@
+radarscan_pkg
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/giangtin/aev/radarScanQT/devel -DCMAKE_INSTALL_PREFIX=/home/giangtin/aev/radarScanQT/install

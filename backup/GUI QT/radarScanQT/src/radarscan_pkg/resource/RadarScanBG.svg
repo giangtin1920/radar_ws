@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="457" height="916" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <clipPath id="uLCexTvcEBUo">
+      <path fill="none" stroke="none" d=" M 0 0 L 457 0 L 457 916 L 0 916 L 0 0 Z"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -11.437965, -17.581585)" clip-path="url(#uLCexTvcEBUo)">
+    <rect x="-63.184" y="-48.025" width="607.985" height="997.15" style="stroke: rgb(0, 0, 0); fill: rgba(97, 97, 97, 0);"/>
+    <g transform="matrix(0.918941, 0, 0, 0.952754, 38.300186, 43.3008)">
+      <path paint-order="fill stroke markers" d="M 22.5 -0.95 L 22.5 849.55" stroke-miterlimit="10" style="fill-rule: nonzero; stroke-width: 1.06855px; stroke: rgb(255, 255, 255);" fill="none" bx:origin="0 0.504469"/>
+      <path paint-order="fill stroke markers" d="M 22.5 849.55 L 422.5 849.548" stroke-opacity="1" stroke-miterlimit="10" style="stroke-width: 1.06855px; stroke: rgb(255, 255, 255);" fill="none"/>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="14.944" y="878.7">–4</text>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="106.12" y="878.7">–2</text>
+      <path paint-order="fill stroke markers" d="M 72.5 844.3 L 72.5 849.548" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="214.56" y="878.7">0</text>
+      <path paint-order="fill stroke markers" d="M 172.5 844.3 L 172.5 849.548" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); fill-rule: nonzero; stroke: rgb(255, 255, 255);"/>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="314.56" y="878.7">2</text>
+      <path paint-order="fill stroke markers" d="M 272.5 844.3 L 272.5 849.548" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="411.296" y="878.7">4</text>
+      <path paint-order="fill stroke markers" d="M 372.5 844.3 L 372.5 849.548" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="-6.232" y="710.1">5</text>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="-22.024" y="400.25">10</text>
+      <text style="dominant-baseline: alphabetic; fill: rgb(255, 255, 255); font-family: geogebra-sans-serif, sans-serif; font-size: 27.3px; white-space: pre;" x="-22.024" y="135.55">15</text>
+      <path stroke="rgb(128,128,128)" paint-order="fill stroke markers" d="M 322.5 849.05 C 322.5 793.822 277.728 749.05 222.5 749.05 C 167.272 749.05 122.5 793.822 122.5 849.05 L 222.5 849.05 L 322.5 849.05 Z" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 423.638 700.579 C 376.422 636.615 301.598 598.922 222.095 599.05 C 142.593 599.179 69.508 637.114 22.5 701.231" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 423.752 391.341 C 295.642 335.012 150.657 335.119 22.5 391.341" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 423.805 126.571 C 292.251 89.916 154.075 90.271 22.5 126.85" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path paint-order="fill stroke markers" d="M 22.5 391.341 L 423.752 391.341" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgb(131, 130, 130);"/>
+      <path paint-order="fill stroke markers" d="M 22.5 701.231 L 423.638 700.58" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgba(131, 130, 130, 0.64);"/>
+      <path paint-order="fill stroke markers" d="M 22.5 -0.95 L 422.5 -0.95" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgb(176, 176, 176);"/>
+      <path paint-order="fill stroke markers" d="M 122.5 849.05 L 122.5 -0.95" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgb(176, 176, 176);"/>
+      <path paint-order="fill stroke markers" d="M 322.5 849.05 L 322.5 -0.95" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgb(176, 176, 176);"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 222.5 849.05 L 212.5 -0.95" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+      <path paint-order="fill stroke markers" d="M 422.5 849.05 L 422.5 -0.95" stroke-opacity="0.8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="4.5,4" fill="none" style="stroke: rgb(176, 176, 176);"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 222.5 849.05 L 422.5 733.6" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 222.5 849.05 L 422.5 502.64" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 222.5 849.05 L 22.5 733.6" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path stroke="rgb(160,160,160)" paint-order="fill stroke markers" d="M 222.5 849.05 L 22.5 502.64" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" fill="none"/>
+      <path paint-order="fill stroke markers" d="M 222.5 839.05 L 222.5 849.546" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <path paint-order="fill stroke markers" d="M 322.5 839.05 L 322.5 849.546" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <path paint-order="fill stroke markers" d="M 122.5 839.05 L 122.5 849.546" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <path paint-order="fill stroke markers" d="M 22.088 -0.763 L 32.97 -0.763" stroke-opacity="1" stroke-miterlimit="10" fill="none" style="stroke: rgb(255, 255, 255);"/>
+      <path paint-order="fill stroke markers" d="M 22.093 701.231 L 33.664 701.231" stroke-opacity="1" stroke-miterlimit="10" style="stroke: rgb(255, 255, 255);" fill="none"/>
+      <path paint-order="fill stroke markers" d="M 22.5 126.85 C 21.899 126.85 33.702 126.85 33.707 126.85" stroke-opacity="1" stroke-miterlimit="10" style="stroke: rgb(255, 255, 255);" fill="none"/>
+      <path paint-order="fill stroke markers" d="M 422.5 839.155 L 422.5 849.651" stroke-opacity="1" stroke-miterlimit="10" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+      <path paint-order="fill stroke markers" d="M 22.131 391.341 L 32.923 391.341" stroke-opacity="1" stroke-miterlimit="10" style="stroke: rgb(255, 255, 255);" fill="none"/>
+    </g>
+  </g>
+</svg>

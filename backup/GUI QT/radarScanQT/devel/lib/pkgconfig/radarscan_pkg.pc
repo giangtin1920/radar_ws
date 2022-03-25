@@ -1,0 +1,8 @@
+prefix=/home/giangtin/aev/radarScanQT/devel
+
+Name: radarscan_pkg
+Description: Description of radarscan_pkg
+Version: 0.0.0
+Cflags: -I/home/giangtin/aev/radarScanQT/src/radarscan_pkg/include -I/usr/include/x86_64-linux-gnu/qt5/ -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/lib/x86_64-linux-gnu/qt5//mkspecs/linux-g++ -I/usr/include -I/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport
+Libs: -L${prefix}/lib -lradarscan_pkg /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.9.5 /usr/lib/x86_64-linux-gnu/libQt5PrintSupport.so.5.9.5
+Requires: roscpp rospy std_msgs
